@@ -4,9 +4,8 @@ let viewPager;
 let topicIndicator;
 let topicButtons;
 
-//zuix.using('script', 'service-worker.js');
+zuix.using('script', 'service-worker.js');
 zuix.using('style', '//genielabs.github.io/zkit/css/flex-layout-attribute.min.css');
-zuix.using('style', '//fonts.googleapis.com/icon?family=Material+Icons');
 zuix.using('style', './index.css');
 
 zuix.$.find('.profile').on('click', function() {
