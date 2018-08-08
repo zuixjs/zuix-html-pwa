@@ -13,7 +13,7 @@ Bare template with no build tools, just HTML, JavaScript and CSS.
 - Component-based web development with zUIx.js
 - In-Browser bundler to pack all resources in a single file and boost-up loading speed
 
-![zuix-html-pwa](images/zuix-html-pwa.gif)
+![zuix-html-pwa](https://genielabs.github.io/zuix-html-pwa/images/zuix-html-pwa.gif)
 
 # Usage
 
