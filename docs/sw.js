@@ -3,7 +3,6 @@ self.addEventListener('install', e => {
         caches.open('app-cache').then(cache =>
         {
             return cache.addAll([
-                'service-worker.js',
                 'app.bundle.js',
                 'index.html',
                 'index.css',
