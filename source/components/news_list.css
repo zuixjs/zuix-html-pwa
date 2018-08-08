@@ -1,0 +1,42 @@
+.list {
+  margin-top: 96px;
+  margin-bottom: 206px;
+}
+
+.card-wrapper {
+  margin: 0;
+  padding:8px;
+  max-width: 100%;
+  /* min-height: 100px; this is causing strange behavior on mobile, like delayed loading?!? */
+  overflow: hidden;
+  font-family: serif !important;
+}
+
+.info {
+  margin-left:4px;
+  margin-right:4px;
+}
+
+.card {
+  cursor: pointer;
+  position: relative;
+  max-width: 640px;
+  padding: 6px;
+}
+.card i {
+  color: gray;
+  font-size: 200%;
+}
+.cover-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+.cover {
+  width: 100%;
+  max-width:100%;
+  border-radius: 8px;
+}
+.summary {
+  width: 100%;
+  background-color: rgba(255,255,255,0.9);
+}

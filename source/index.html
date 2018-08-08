@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>HTML PWA</title>
+  <meta name="description" content="HTML Progressive Web App made with zUIx.js">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- Progressive Web App -->
+  <meta name="theme-color" content="white">
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Add to homescreen for Chrome on Android -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="icon" sizes="192x192" href="images/icons/desktop/android-chrome-192x192.png">
+  <link rel="icon" sizes="512x512" href="images/icons/desktop/android-chrome-512x512.png">
+
+  <!-- Add to homescreen for Safari on iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="A zUIx website">
+  <link rel="apple-touch-icon-precomposed" href="images/icons/desktop/apple-touch-icon.png">
+  <link rel="mask-icon" href="images/icons/desktop/safari-pinned-tab.svg" color="#5bbad5">
+
+  <!-- Tile color for Windows -->
+  <meta name="msapplication-TileImage" content="images/icons/desktop/mstile-150x150.png">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+
+  <!-- Place favicon.ico in the root directory -->
+  <link rel="icon" type="image/png" sizes="32x32" href="images/icons/desktop/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/icons/desktop/favicon-16x16.png">
+
+  <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+  <!--
+  <link rel="canonical" href="http://www.example.com/">
+  -->
+
+  <!-- import zUIx library (v 0.4.9-51) -->
+  <script src="js/zuix.min.js"></script>
+  <script src="js/zuix-bundler.min.js"></script>
+
+  <!-- main app script -->
+  <script src="index.js" defer></script>
+
+  <!-- service-worker -->
+  <script src="service-worker.js"></script>
+
+</head>
+<!-- load the 'header_auto_hide' on the body -->
+<body>
+
+<!-- The header with logo and button (we're loading it from zuix-app-1 example) -->
+<header data-ui-field="header-bar"
+        data-ui-include="layout/header"
+        data-ui-context="header"
+        data-ui-options="options.headerBar"></header>
+
+<!-- Long content to make the page scrollable -->
+<main data-ui-load="@lib/controllers/view_pager"
+      data-ui-options="options.viewPager"
+      class="feed-pager"
+      draggable="false">
+
+  <!-- TOP STORIES -->
+  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
+
+    <div data-ui-load="components/news_list"
+         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition.rss"></div>
+
+  </section>
+
+  <!-- WORLD -->
+  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
+
+    <div data-ui-load="components/news_list"
+         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition_world.rss"></div>
+
+  </section>
+
+  <!-- EUROPE -->
+  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
+
+    <div data-ui-load="components/news_list"
+         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition_europe.rss"></div>
+
+  </section>
+
+  <!-- TRAVEL -->
+  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
+
+    <div data-ui-load="components/news_list"
+         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition_travel.rss"></div>
+
+  </section>
+
+</main>
+
+<!-- The footer with toolbar buttons -->
+<footer data-ui-field="footer-bar" data-ui-include="layout/footer"></footer>
+
+<!-- The DrawerLayout for side menu panel -->
+<div data-ui-load="@lib/controllers/drawer_layout"
+     data-ui-options="options.drawerLayout"
+     class="drawer"
+     draggable="false">
+
+  <!-- Add Navigation Drawer content (we're loading it from zuix-app-2 example) -->
+  <div data-ui-include="content/user_menu"></div>
+
+</div>
+
+</body>
+</html>

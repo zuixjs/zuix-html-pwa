@@ -1,0 +1,34 @@
+. {
+  position: fixed;
+  left:0; bottom:0; right: 0;
+  height: 56px;
+  background: rgba(240,240,240,0.97);
+  border-top: solid 1px rgba(0,0,0,0.25);
+  box-shadow: 0 -6px 2px -2px rgba(100,100,100,0.25);
+  text-align: center;
+  z-index: 100;
+}
+
+button {
+  padding: 12px;
+  max-height: 56px;
+  margin-left: 8px;
+  margin-right: 8px;
+  background: transparent;
+  border: none;
+  color: rgba(0,0,0,0.2);
+  -webkit-transition: all .3s; /* Safari */
+  transition: all .3s;
+}
+button:focus {outline:0;}
+button i {font-size: 32px !important;}
+
+.active {
+  color: #008fc4;
+  text-shadow:
+       1px 1px 0 #e1e8ed,
+     -1px -1px 0 #e1e8ed,
+      1px -1px 0 #e1e8ed,
+      -1px 1px 0 #e1e8ed,
+       1px 1px 0 #e1e8ed;
+}
