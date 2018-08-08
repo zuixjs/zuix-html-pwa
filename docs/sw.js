@@ -5,7 +5,6 @@ self.addEventListener('install', e => {
             return cache.addAll([
                 'app.bundle.js',
                 'index.html',
-                'index.css',
                 'index.js'
             ])
         })
