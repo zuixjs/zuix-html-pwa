@@ -18,6 +18,9 @@ Bare template with no build tools, just HTML, JavaScript and CSS.
 
 ![LightHouse Report](https://genielabs.github.io/zuix-html-pwa/images/lighthouse-report.png)
 
+###### Demo Website
+
+https://genielabs.github.io/zuix-html-pwa
 
 # How to use this template
 
@@ -72,8 +75,8 @@ This will create and save the **app.bundle.js** file to the *Downloads* folder.
 Copy all files from the *source* folder to the production folder (*docs*) with
 the exception of *components*, *content*, *layout* and *index.css*.
 
-These folders contins *zuix* components and content that are packed in the
-*app.bundle.js* file.
+These folders contain *zuix* components and content that are already packed
+in the *app.bundle.js* file.
 
 Copy *app.bundle.js* to the *production* folder.
 Edit the `index.html` file in the *production* folder and in the `head` section
@@ -120,11 +123,11 @@ zuix.using('script', momentJs, function(res, scriptObject){
 ```
 
 Place the *using* commands preferably at the top of `index.js`. You can remove
-from the *production* folder all files imported with the *using*.
+from the *production* folder all files imported with the *using* command.
 
 
 # Further reading
 
 - [zUIx.js](https://genielabs.github.io/zuix)
-- [Progressive Wen App](https://developers.google.com/web/progressive-web-apps)
+- [Progressive Web App](https://developers.google.com/web/progressive-web-apps)
 - [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
