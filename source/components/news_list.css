@@ -18,6 +18,7 @@
 }
 
 .card {
+  width: 100%;
   cursor: pointer;
   position: relative;
   max-width: 640px;
@@ -30,17 +31,15 @@
 }
 .cover-wrapper {
   width: 100%;
+  border-radius: 12px;
   padding-top: 75%;
   position: relative;
   overflow: hidden;
 }
-.cover {
-  margin-top: -75%;
-  width: 100%;
-  max-width:100%;
-  border-radius: 8px;
-}
 .summary {
   width: 100%;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255,255,255,0.85);
+}
+[self*="size-1of3"]  h1 {
+  font-size: 130% !important;
 }
