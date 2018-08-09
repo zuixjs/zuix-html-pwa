@@ -9,7 +9,7 @@
   max-width: 100%;
   /* min-height: 100px; this is causing strange behavior on mobile, like delayed loading?!? */
   overflow: hidden;
-  font-family: serif !important;
+  font-family: Helvetica, sans-serif !important;
 }
 
 .info {
@@ -28,6 +28,7 @@
   font-size: 200%;
 }
 .cover-wrapper {
+  width: 100%;
   position: relative;
   overflow: hidden;
 }
@@ -38,5 +39,5 @@
 }
 .summary {
   width: 100%;
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(255,255,255,0.8);
 }

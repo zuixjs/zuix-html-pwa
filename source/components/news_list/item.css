@@ -1,5 +1,19 @@
 h1 {
-  font-weight: 600;
   font-size: 150%;
+  font-weight: 500;
   margin: 0 4px;
+}
+
+.cover-wrapper {
+  padding-top: 75%;
+}
+
+.cover{
+  margin-top: -75%;
+}
+
+.summary {
+  position: absolute;
+  padding: 4px;
+  left:0; bottom:16px; right: 0;
 }
