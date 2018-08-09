@@ -62,58 +62,34 @@
         data-ui-field="header-bar"
         data-ui-context="header"></header>
 
-<!-- Long content to make the page scrollable -->
-<main data-ui-load="@lib/controllers/view_pager"
-      data-ui-options="options.viewPager"
-      class="feed-pager"
-      draggable="false">
+<main data-ui-field="pages">
 
-  <!-- TOP STORIES -->
-  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
+  <!-- HOME -->
+  <section data-ui-include="content/pages/home"></section>
 
-    <div data-ui-load="components/news_list"
-         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition.rss"></div>
+  <!-- SEARCH -->
+  <section data-ui-include="content/pages/search"></section>
 
-  </section>
+  <!-- NOTIFICATIONS -->
+  <section data-ui-include="content/pages/notifications"></section>
 
-  <!-- WORLD -->
-  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
-
-    <div data-ui-load="components/news_list"
-         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition_world.rss"></div>
-
-  </section>
-
-  <!-- EUROPE -->
-  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
-
-    <div data-ui-load="components/news_list"
-         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition_europe.rss"></div>
-
-  </section>
-
-  <!-- TRAVEL -->
-  <section class="content" data-ui-load="@lib/controllers/header_auto_hide" data-ui-options="options.autoHidingBars">
-
-    <div data-ui-load="components/news_list"
-         data-o-rss="//cors-anywhere.herokuapp.com/http://rss.cnn.com/rss/edition_travel.rss"></div>
-
-  </section>
+  <!-- MESSAGES -->
+  <section data-ui-include="content/pages/messages"></section>
 
 </main>
 
 <!-- The footer with toolbar buttons -->
-<footer data-ui-field="footer-bar" data-ui-include="layout/footer"></footer>
+<footer data-ui-include="layout/footer"
+        data-ui-options="options.footerBar"
+        data-ui-field="footer-bar"></footer>
 
 <!-- The DrawerLayout for side menu panel -->
 <div data-ui-load="@lib/controllers/drawer_layout"
      data-ui-options="options.drawerLayout"
      class="drawer"
      draggable="false">
-
   <!-- Add Navigation Drawer content (we're loading it from zuix-app-2 example) -->
   <div data-ui-include="content/user_menu"></div>
-
 </div>
 
 <noscript>

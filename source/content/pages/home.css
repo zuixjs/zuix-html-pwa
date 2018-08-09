@@ -1,0 +1,12 @@
+.content {
+    font-family: serif;
+    font-size: 110%;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.feed-pager {
+    height: 100vh;
+    z-index: 0;
+}

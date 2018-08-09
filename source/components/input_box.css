@@ -1,0 +1,78 @@
+
+. {
+    width: 100%;
+    max-width: 640px;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    width: 100%;
+    font-size: 130%;
+    font-family: inherit;
+    line-height: inherit;
+    color: #2e3750;
+    min-width: 12em;
+}
+
+.input {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(21deg, #10abff, #1beabd);
+    padding: 2px;
+    display: inline-block;
+    border-radius: 9999em;
+    margin: 8px;
+}
+.input *:not(span) {
+    position: relative;
+    display: inherit;
+    border-radius: inherit;
+    margin: 0;
+    border: none;
+    outline: none;
+    padding: 3px 8px;
+    z-index: 1;
+}
+.input *:not(span):focus + span {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.input span {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    transition: opacity .25s, -webkit-transform .5s;
+    transition: transform .5s, opacity .25s;
+    transition: transform .5s, opacity .25s, -webkit-transform .5s;
+    opacity: 0;
+    position: absolute;
+    z-index: 0;
+    margin: 4px;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: inherit;
+    pointer-events: none;
+    box-shadow: inset 0 0 0 2px #fff, 0 0 0 2px #fff, 2px -2px 22px #1beabd,  -2px 2px 22px #10abff;
+}
+
+::-webkit-input-placeholder {
+    color: #cbd0d5;
+}
+
+:-ms-input-placeholder {
+    color: #cbd0d5;
+}
+
+::-ms-input-placeholder {
+    color: #cbd0d5;
+}
+
+::placeholder {
+    color: #cbd0d5;
+}

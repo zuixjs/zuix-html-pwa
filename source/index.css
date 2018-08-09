@@ -5,21 +5,12 @@ body {
   font-size: 16px;
   margin: 0; padding: 0;
   background: white;
-}
-
-.content {
-  font-family: serif;
-  font-size: 110%;
-  width: 100vw;
-  height: 100vh;
-  overflow-y: scroll;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
 }
 
 .drawer {
   background: white;
-}
-
-.feed-pager {
-  height: 100vh;
-  z-index: 0;
 }

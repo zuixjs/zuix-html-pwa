@@ -16,15 +16,20 @@ button {
   margin-right: 8px;
   background: transparent;
   border: none;
-  color: rgba(0,0,0,0.5);
+  border-radius: 8px;
+  color: rgba(0,0,0,0.3);
   -webkit-transition: all .3s; /* Safari */
   transition: all .3s;
+}
+button:hover {
+  background: rgba(255,255,255,0.25);
 }
 button:focus {outline:0;}
 button i {font-size: 32px !important;}
 
 .active {
-  color: #008fc4;
+  transform: scale(1.2);
+  color: #0095cc;
   text-shadow:
        1px 1px 0 #e1e8ed,
      -1px -1px 0 #e1e8ed,
