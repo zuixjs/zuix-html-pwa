@@ -21,6 +21,7 @@
   cursor: pointer;
   position: relative;
   max-width: 640px;
+  min-height: 200px;
   padding: 6px;
 }
 .card i {
@@ -29,10 +30,12 @@
 }
 .cover-wrapper {
   width: 100%;
+  padding-top: 75%;
   position: relative;
   overflow: hidden;
 }
 .cover {
+  margin-top: -75%;
   width: 100%;
   max-width:100%;
   border-radius: 8px;
