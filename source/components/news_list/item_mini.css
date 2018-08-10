@@ -5,5 +5,10 @@ h1 {
 }
 
 .cover-wrapper {
+  margin: 4px;
   padding-top: 56.25%;
+}
+
+.summary {
+  margin-top: 16px;
 }

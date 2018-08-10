@@ -19,27 +19,40 @@
 
 .card {
   width: 100%;
-  cursor: pointer;
   position: relative;
   max-width: 640px;
   min-height: 200px;
-  padding: 6px;
+  padding: 12px;
+  padding-bottom: 24px;
 }
 .card i {
   color: gray;
   font-size: 200%;
 }
 .cover-wrapper {
+  cursor: pointer;
   width: 100%;
   border-radius: 12px;
   padding-top: 75%;
   position: relative;
   overflow: hidden;
+  background-size: cover;
+  background: #f2f2f2 no-repeat center center;
 }
 .summary {
   width: 100%;
-  background-color: rgba(255,255,255,0.85);
 }
-[self*="size-1of3"]  h1 {
-  font-size: 130% !important;
+.options {
+  color: gray;
+}
+.options button {
+  width: 48px;
+  height: 48px;
+  padding-top: 4px;
+  background: rgba(50,50,50,0.01);
+  border: none;
+  border-radius: 24px;
+}
+.options button:hover {
+  background: rgba(0,0,0,0.1);
 }
