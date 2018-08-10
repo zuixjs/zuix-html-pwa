@@ -43,7 +43,10 @@
   width: 100%;
 }
 .options {
-  color: gray;
+  color: dimgrey;
+}
+.options span {
+  font-size: 80%;
 }
 .options button {
   width: 48px;

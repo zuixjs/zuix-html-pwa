@@ -43,7 +43,7 @@ zuix.controller(function(cp) {
     }
   }
 
-  // Download RSS feed 
+  // Download RSS feed
   function fetchList(rssUrl) {
     // CORS proxy https://cors-anywhere.herokuapp.com/
     zx.$.ajax({
@@ -58,7 +58,7 @@ zuix.controller(function(cp) {
     });
   }
 
-  // Parse RSS feed and create a JSON object out of it 
+  // Parse RSS feed and create a JSON object out of it
   function parseRss(rssText) {
     const items = [];
     const parser = new DOMParser();
@@ -83,10 +83,12 @@ zuix.controller(function(cp) {
         let cover;
         if (i < 5 && images[3] != null) cover = images[3].url;
         else if (i > 3 && images[4] != null) cover = images[4].url;
+        const date = pubDate; // TODO: format date
         items.push({
           title,
           link,
           cover,
+          date,
           images
         });
       }
