@@ -23,9 +23,9 @@ zuix.controller(function(cp) {
           el = zx.createComponent('components/news_list/item', options).container();
           // 2 columns layout
           if (i < 2) {
-            el.setAttribute('self', 'size-1of2 large-full md-full sm-full');
+            el.setAttribute('self', 'size-1of2 lg-full md-full sm-full');
           } else {
-            el.setAttribute('self', 'size-1of3 md-full sm-full');
+            el.setAttribute('self', 'size-1of3 lg-half md-half sm-full');
           }
           el.setAttribute('class', 'card-wrapper'); // <-- will this work?
         } else {
