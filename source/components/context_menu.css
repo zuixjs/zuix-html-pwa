@@ -6,6 +6,7 @@
     top: 0;
     background: rgba(0,0,0,0.5);
     z-index: 200;
+    overscroll-behavior-y: contain;
     -webkit-transition: opacity 0.25s ease-in-out;
     -moz-transition: opacity 0.25s ease-in-out;
     -ms-transition: opacity 0.25s ease-in-out;
