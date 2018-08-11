@@ -37,6 +37,32 @@
     </section>
 
 </div>
-<div data-ui-load="components/context_menu"
-     data-ui-context="news-options-menu"
-     layout="column bottom-center"></div>
+<div data-ui-load="@lib/components/context_menu"
+     data-ui-context="news-options-menu">
+    <div data-ui-field="menu">
+        <button layout="row center-left">
+            <i class="material-icons">bookmark_border</i>
+            <span>Save for later</span>
+        </button>
+        <button layout="row center-left">
+            <i class="material-icons">share</i>
+            <span>Share</span>
+        </button>
+        <button layout="row center-left">
+            <i class="material-icons">open_in_new</i>
+            <span>Open link</span>
+        </button>
+        <button layout="row center-left">
+            <i class="material-icons">not_interested</i>
+            <span>Hide items from this source</span>
+        </button>
+        <button layout="row center-left">
+            <i class="material-icons">thumb_up</i>
+            <span>More like this</span>
+        </button>
+        <button layout="row center-left">
+            <i class="material-icons">thumb_down</i>
+            <span>Less like this</span>
+        </button>
+    </div>
+</div>
