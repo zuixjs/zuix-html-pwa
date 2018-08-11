@@ -1,16 +1,17 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  font-size: 16px;
-  margin: 0; padding: 0;
-  background: white;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    font-size: 16px;
+    margin: 0; padding: 0;
+    background: white;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    overscroll-behavior-y: contain;
 }
 
 .drawer {
-  background: white;
+    background: white;
 }
