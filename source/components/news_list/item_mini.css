@@ -1,7 +1,7 @@
 h1 {
   font-size: 120%;
   font-weight: 500;
-  margin: 0 4px;
+  margin: 0;
 }
 
 .cover-wrapper {
@@ -10,5 +10,6 @@ h1 {
 }
 
 .summary {
+  cursor: pointer;
   margin-top: 16px;
 }
