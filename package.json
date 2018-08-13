@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server --cors ./docs"
+    "start": "http-server --cors ./source"
   },
   "keywords": [
     "zuix",
