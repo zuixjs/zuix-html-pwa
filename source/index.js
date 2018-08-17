@@ -24,6 +24,22 @@ window.options = {
         drawerWidth: 280,
         ready: function() { drawerLayout = this; this.close(); }
     },
+    headerBar: {
+        ready: function() {
+            const view = zuix.$(this.view());
+            // handle 'topic' buttons click (goto clicked topic page)
+            topicButtons = view.find('.topics').children().each(function(i, el){
+                this.on('click', function(e) {
+                    if (viewPager) viewPager.page(i);
+                });
+            });
+            // open drawer when the profile icon is clicked
+            view.find('.profile').on('click', function() {
+                if (drawerLayout) drawerLayout.open();
+            });
+            showPage(PAGE_HOME);
+        }
+    },
     footerBar: {
         ready: function(){
             const view = zuix.$(this.view());
@@ -74,23 +90,6 @@ window.options = {
         css: false
     }
 };
-
-// Callback when the 'header' context is ready,
-// that means that the 'layout/header' was loaded
-zuix.context('header', function() {
-    const view = zuix.$(this.view());
-    // handle 'topic' buttons click (goto clicked topic page)
-    topicButtons = view.find('.topics').children().each(function(i, el){
-        this.on('click', function(e) {
-            if (viewPager) viewPager.page(i);
-        });
-    });
-    // open drawer when the profile icon is clicked
-    view.find('.profile').on('click', function() {
-        if (drawerLayout) drawerLayout.open();
-    });
-    showPage(PAGE_HOME);
-});
 
 function syncPageIndicator(page) {
     if (topicButtons) {
