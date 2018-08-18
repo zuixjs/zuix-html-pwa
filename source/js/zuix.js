@@ -1,5 +1,3 @@
-/* zUIx v0.4.9-55 18.08.13 12:53:05 */
-
 /** @typedef {Zuix} window.zuix */!function(e){if("object"==typeof exports)module.exports=e();else if("function"==typeof define&&define.amd)define(e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),f.zuix=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
@@ -1521,46 +1519,21 @@ z$.getPosition = function(el, tolerance) {
     position.visible = false;
     const scrollable = el.offsetParent;
     if (scrollable != null) {
-        let vp = scrollable.getBoundingClientRect();
-        vp = {
-            x: el.scrollLeft | vp.x,
-            y: el.scrollTop | vp.y,
-            width: el.scrollWidth | vp.width,
-            height: el.scrollHeight | vp.height
-        };
-        scrollInfo.size.width = vp.width;
-        scrollInfo.size.height = vp.height;
-        if (scrollable === document.body) {
-            scrollInfo.size.width = document.body.offsetWidth;
-            scrollInfo.size.height = document.body.offsetHeight;
-            scrollInfo.viewport.width = document.documentElement.clientWidth || scrollInfo.size.width;
-            scrollInfo.viewport.height = document.documentElement.clientHeight || scrollInfo.size.height;
+        // find the scrollable container
+        let s = scrollable.offsetParent;
+        while (s != null && s.offsetParent !== null && s.offsetHeight === s.scrollHeight) {
+            s = s.offsetParent;
+        }
+        if (s != null) {
+            scrollInfo.viewport = s.getBoundingClientRect();
         } else {
-            // find the scrollable container
-            let s = scrollable.offsetParent;
-            while (s != null && s.offsetParent !== null && s.offsetHeight === s.scrollHeight) {
-                s = s.offsetParent;
-            }
-            if (s != null) {
-                scrollInfo.viewport.width = s.offsetWidth;
-                scrollInfo.viewport.height = s.offsetHeight;
-            } else {
-                scrollInfo.viewport.width = scrollable.offsetWidth;
-                scrollInfo.viewport.height = scrollable.offsetHeight;
-            }
+            scrollInfo.viewport = scrollable.getBoundingClientRect();
         }
         if (tolerance == null) tolerance = 0;
-        const r1 = {
-            left: 0,
-            top: 0,
-            right: scrollInfo.viewport.width,
-            bottom: scrollInfo.viewport.height,
-            width: scrollInfo.viewport.width,
-            height: scrollInfo.viewport.height
-        };
-        let r2 = el.getBoundingClientRect();
+        const r1 = scrollInfo.viewport;
+        const r2 = el.getBoundingClientRect();
         // visible status
-        let visible = !(r2.left > r1.right - tolerance ||
+        const visible = !(r2.left > r1.right - tolerance ||
             r2.right < r1.left + tolerance ||
             r2.top > r1.bottom - tolerance ||
             r2.bottom < r1.top + tolerance);
