@@ -64,16 +64,19 @@
 <main data-ui-field="pages">
 
   <!-- HOME -->
-  <section data-ui-include="content/pages/home"></section>
+  <section data-ui-include="pages/home"></section>
 
   <!-- SEARCH -->
-  <section data-ui-include="content/pages/search"></section>
+  <section data-ui-include="pages/search"></section>
 
   <!-- NOTIFICATIONS -->
-  <section data-ui-include="content/pages/notifications"></section>
+  <section data-ui-include="pages/notifications"></section>
 
   <!-- MESSAGES -->
-  <section data-ui-include="content/pages/messages"></section>
+  <section data-ui-include="pages/messages"></section>
+
+  <!-- ABOUT -->
+  <section data-ui-include="pages/about" layout="column top-center"></section>
 
 </main>
 
@@ -88,7 +91,7 @@
      class="drawer"
      draggable="false">
   <!-- Add Navigation Drawer content -->
-  <div data-ui-include="content/user_menu"></div>
+  <div data-ui-include="shared/main_menu"></div>
 </div>
 
 <noscript>

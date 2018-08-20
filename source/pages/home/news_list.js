@@ -5,7 +5,9 @@ zuix.controller(function(cp) {
   let itemsList;
 
   cp.create = function() {
-    const url = cp.view().attr('data-o-rss');
+    let url = cp.view().attr('data-o-rss');
+    // Use a proxy to prevent CORS policy restrictions errors
+    url = '//cors-anywhere.herokuapp.com/'+url;
     fetchList(url);
   };
 
@@ -20,7 +22,7 @@ zuix.controller(function(cp) {
         let el;
         if (i < 5) {
           // different layout for first 4 items (bigger)
-          el = zx.createComponent('components/news_list/item', options).container();
+          el = zx.createComponent('pages/home/news_list/item', options).container();
           // 2 columns layout
           if (i < 2) {
             el.setAttribute('self', 'size-1of2 lg-full md-full sm-full');
@@ -30,7 +32,7 @@ zuix.controller(function(cp) {
           el.setAttribute('class', 'card-wrapper'); // <-- will this work?
         } else {
           // "mini" layout for subsequent items
-          el = zx.createComponent('components/news_list/item_mini', options).container();
+          el = zx.createComponent('pages/home/news_list/item_mini', options).container();
           // 4 columns layout
           el.setAttribute('self', 'size-1of4 lg-half md-half sm-full');
           el.setAttribute('class', 'card-wrapper mini'); // <-- will this work?

@@ -1,0 +1,25 @@
+. {
+    color: black;
+    padding: 24px;
+    font-size: 140%;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h1,h2,h3 {
+    color: grey;
+}
+
+a, a:visited, a:hover {
+    font-weight: 700;
+    color: deeppink;
+    text-decoration: none;
+}
+
+.small {
+    font-size: 90%;
+}

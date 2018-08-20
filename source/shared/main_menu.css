@@ -1,5 +1,5 @@
 . {
-  font-family: "Trebuchet MS";
+  font-family: "Trebuchet MS", sans-serif;
   overflow-x: hidden;
 }
 
@@ -54,22 +54,27 @@ hr {
   color: gray;
 }
 
-.options a {
-  font-size: 110%;
-  width: 100%;
-  height:56px;
-  padding-left: 16px;
-  vertical-align: middle;
-  align-items: center;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+.options button {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 110%;
+    width: 100%;
+    height:56px;
+    border: 0;
+    margin: 0;
+    padding: 0 0 0 16px;
+    background: transparent;
+    color: black;
+    vertical-align: middle;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
 }
-.options a i {
+.options button i {
   font-size: 200%;
   color: darkgray;
 }
-.options a span {
+.options button span {
   margin-left: 8px;
 }
