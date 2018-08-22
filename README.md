@@ -118,8 +118,6 @@ For a deeper insight on using these special attributes for component-based devel
 
 ### The news list
 
-// TODO: ...
-
 In order to display the list of news articles, the `pages/home` is using the `pages/home/news_list` component.
 
 **pages/home.html** (snippet)
@@ -139,6 +137,19 @@ In order to display the list of news articles, the `pages/home` is using the `pa
 
 Once the `news_list` component is loaded it will read the attribute `data-o-rss` of the element and download the RSS feed specified by it. Then it will parse the RSS feed and render it to the wrapping element.
 This component is just an example and you can modify and adapt it to work with any data source or it can be replace with a server-side rendering approach.
+
+### About the @lib prefix
+
+The special *@lib* prefix is used with the `data-ui-include` and `data-ui-load` attribute to load components from a shared location that by default will point to the [zKit](https://genielabs.github.io/zkit/) components library.
+This path is resolved to `https://genielabs.github.io/zkit/lib/` but can also be customized to point to a different location:
+
+```javascript
+zuix.store('config', {
+    libraryPath: 'https://my.shared.components.io/lib/'
+});
+```
+
+You can so create your own shared component library to use across all of your websites.
 
 ### Further implementation details
 

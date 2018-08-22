@@ -1,10 +1,5 @@
 /* global zuix */
 
-const PAGE_HOME = 0;
-const PAGE_SEARCH = 1;
-const PAGE_NOTIFICATIONS = 2;
-const PAGE_MESSAGES = 3;
-
 let drawerLayout;
 let viewPager;
 let topicIndicator;
@@ -37,7 +32,7 @@ window.options = {
             view.find('.profile').on('click', function() {
                 if (drawerLayout) drawerLayout.open();
             });
-            showPage(PAGE_HOME);
+            showPage(0);
         }
     },
     footerBar: {
@@ -56,6 +51,7 @@ window.options = {
     },
     viewPager: {
         enablePaging: true,
+        startGap: 36,
         on: {
             'page:change': function(e, page) {
                 syncPageIndicator(page);

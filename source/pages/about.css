@@ -1,22 +1,21 @@
 . {
     color: black;
     padding: 24px;
-    font-size: 140%;
     margin-top: 64px;
     margin-bottom: 64px;
-}
-
-h1 {
-    font-size: 200%;
 }
 
 h1,h2,h3 {
     color: grey;
 }
 
+h2 {
+    font-size: 130%;
+}
+
 a, a:visited, a:hover {
     font-weight: 700;
-    color: deeppink;
+    color: darkorange;
     text-decoration: none;
 }
 
