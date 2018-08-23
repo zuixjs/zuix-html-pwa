@@ -68,6 +68,7 @@ window.options = {
     },
     topicIndicator: {
         enablePaging: true,
+        startGap: 36,
         ready: function() {
             topicIndicator = this;
         }
