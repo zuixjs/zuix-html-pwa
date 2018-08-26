@@ -76,7 +76,7 @@ A simple page is defined by the `.css` and `.html` files. A page might also requ
 
 A page might also include some other *local* bits that are placed in a subfolder with the same base name of the page like shown in the above structure for the `home` page.
 
-The `shared/` folder contains indeed bits that are *shared* across the whole application and that are usually referenced by difference pages.
+The `shared/` folder contains indeed bits that are *shared* across the whole application and that are usually referenced by different pages.
 
 As you can see in the `index.html` file those pages and layout bits are loaded using some special tag attributes that are `data-ui-include` (to load simple content pages) and `data-ui-load` to load pages or components that also have a JavaScript controller.
 
