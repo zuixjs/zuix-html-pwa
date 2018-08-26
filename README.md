@@ -16,11 +16,11 @@ This template is built with just HTML, JavaScript and CSS so that it can be even
 - In-browser bundler: can pack all resources in a single file and boost-up loading speed
 - PWA LightHouse score 98/100
 
-![LightHouse Report](https://genielabs.github.io/zuix-html-pwa/images/lighthouse-report.png)
+![LightHouse Report](https://zuixjs.github.io/zuix-html-pwa/images/lighthouse-report.png)
 
 ### Demo Website
 
-https://genielabs.github.io/zuix-html-pwa
+https://zuixjs.github.io/zuix-html-pwa
 
 
 # How to use this template
@@ -140,8 +140,8 @@ This component is just an example and you can modify and adapt it to work with a
 
 ### About the @lib prefix
 
-The special *@lib* prefix is used with the `data-ui-include` and `data-ui-load` attribute to load components from a shared location that by default will point to the [zKit](https://genielabs.github.io/zkit/) components library.
-This path is resolved to `https://genielabs.github.io/zkit/lib/` but can also be customized to point to a different location:
+The special *@lib* prefix is used with the `data-ui-include` and `data-ui-load` attribute to load components from a shared location that by default will point to the [zKit](https://zuixjs.github.io/zkit/) components library.
+This path is resolved to `https://zuixjs.github.io/zkit/lib/` but can also be customized to point to a different location:
 
 ```javascript
 zuix.store('config', {
@@ -153,7 +153,7 @@ You can so create your own shared component library to use across all of your we
 
 ### Further implementation details
 
-If you have more questions about how to use this template do not esitate to [file an issue](https://github.com/genielabs/zuix-html-pwa/issues).
+If you have more questions about how to use this template do not esitate to [file an issue](https://github.com/zuixjs/zuix-html-pwa/issues).
 
 
 ## Debugging
@@ -178,7 +178,7 @@ There are actually two way of doing this:
 this method does not require any build tool nor plugins, it just works in the browser as-is.
 
 - **Web-Starter** bundler:
-is the [zuix-web-starter](https://github.com/genemars/zuix-web-starter) bare template, with a bunch of extra features and enhancements. It requires *Node.js* to be installed.
+is the [zuix-web-starter](https://github.com/zuixjs/zuix-web-starter) bare template, with a bunch of extra features and enhancements. It requires *Node.js* to be installed.
 
 This template is already configured for **in-browser** bundling.
 
@@ -243,7 +243,7 @@ Place the *using* commands preferably at the top of `index.js`. You can remove f
 
 # Further reading
 
-- [zUIx.js](https://genielabs.github.io/zuix/)
-- [zKit](https://genielabs.github.io/zkit/)
+- [zUIx.js](https://zuixjs.github.io/zuix/)
+- [zKit](https://zuixjs.github.io/zkit/)
 - [Progressive Web App](https://developers.google.com/web/progressive-web-apps)
 - [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)

@@ -5,7 +5,7 @@
 /*!
  * @license
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
 /**
  *
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -358,7 +358,7 @@ module.exports = function serialize(obj, options) {
 },{}],4:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -377,7 +377,7 @@ module.exports = function serialize(obj, options) {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -462,7 +462,7 @@ module.exports = function(root) {
 },{"../zuix/OptionAttributes":5,"./FileSaver":2,"./Serializer":3}],5:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -481,7 +481,7 @@ module.exports = function(root) {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */

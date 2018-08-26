@@ -3,7 +3,7 @@
 /** @typedef {Zuix} window.zuix */!function(e){if("object"==typeof exports)module.exports=e();else if("function"==typeof define&&define.amd)define(e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),f.zuix=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -127,7 +127,7 @@ module.exports = function(callback) {
 },{}],2:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -146,7 +146,7 @@ module.exports = function(callback) {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -281,7 +281,7 @@ module.exports = function(ctx) {
 },{}],3:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -300,7 +300,7 @@ module.exports = function(ctx) {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -402,7 +402,7 @@ module.exports = TaskQueue;
 },{"./Logger":2}],4:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -421,7 +421,7 @@ module.exports = TaskQueue;
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -549,7 +549,7 @@ module.exports = {
 },{}],5:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -568,7 +568,7 @@ module.exports = {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -1623,7 +1623,7 @@ module.exports = z$;
 /*!
  * @license
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -1641,7 +1641,7 @@ module.exports = z$;
 /**
  *
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -1669,7 +1669,7 @@ module.exports = z$;
 },{"./zuix/Zuix.js":12}],7:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -1687,7 +1687,7 @@ module.exports = z$;
 /*
  *
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -1722,7 +1722,7 @@ module.exports = function(root) {
 },{}],8:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -1741,7 +1741,7 @@ module.exports = function(root) {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -2371,7 +2371,7 @@ module.exports = ComponentContext;
 },{"../helpers/Logger":2,"../helpers/Util":4,"../helpers/ZxQuery":5,"./OptionAttributes":11}],9:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -2390,7 +2390,7 @@ module.exports = ComponentContext;
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -2400,7 +2400,7 @@ module.exports = ComponentContext;
 const _optionAttributes =
     _dereq_('./OptionAttributes')();
 
-const LIBRARY_PATH_DEFAULT = 'https://genielabs.github.io/zkit/lib/'; // CORS works only over HTTPS
+const LIBRARY_PATH_DEFAULT = 'https://zuixjs.github.io/zkit/lib/'; // CORS works only over HTTPS
 
 /**
  * TODO: describe this...
@@ -2903,7 +2903,7 @@ function lazyElementCheck(element) {
 },{"../helpers/Logger":2,"../helpers/Util":4,"../helpers/ZxQuery":5,"./../helpers/AsynChain":1,"./OptionAttributes":11}],10:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -2922,7 +2922,7 @@ function lazyElementCheck(element) {
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -3347,7 +3347,7 @@ module.exports = ContextController;
 },{"../helpers/ZxQuery":5}],11:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -3366,7 +3366,7 @@ module.exports = ContextController;
  *
  *  This file is part of
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  */
@@ -3411,7 +3411,7 @@ module.exports = function(root) {
 },{}],12:[function(_dereq_,module,exports){
 /*
  * Copyright 2015-2017 G-Labs. All Rights Reserved.
- *         https://genielabs.github.io/zuix
+ *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -3429,7 +3429,7 @@ module.exports = function(root) {
 /*
  *
  *  zUIx, Javascript library for component-based development.
- *        https://genielabs.github.io/zuix
+ *        https://zuixjs.github.io/zuix
  *
  * @author Generoso Martello <generoso@martello.com>
  *
