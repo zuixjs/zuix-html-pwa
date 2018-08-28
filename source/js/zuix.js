@@ -1,8 +1,9 @@
-/* zUIx v0.4.9-56 18.08.19 02:16:32 */
+/* zUIx v1.0.0 18.08.28 13:45:36 */
 
-/** @typedef {Zuix} window.zuix */!function(e){if("object"==typeof exports)module.exports=e();else if("function"==typeof define&&define.amd)define(e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),f.zuix=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(_dereq_,module,exports){
+/** @typedef {Zuix} window.zuix */
+(function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.zuix = f()}})(function(){var define,module,exports;return (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -126,7 +127,7 @@ module.exports = function(callback) {
 
 },{}],2:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -280,7 +281,7 @@ module.exports = function(ctx) {
 
 },{}],3:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -401,7 +402,7 @@ module.exports = TaskQueue;
 
 },{"./Logger":2}],4:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -548,7 +549,7 @@ module.exports = {
 
 },{}],5:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -1622,7 +1623,7 @@ module.exports = z$;
 /* eslint-disable */
 /*!
  * @license
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -1668,7 +1669,7 @@ module.exports = z$;
 
 },{"./zuix/Zuix.js":12}],7:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -1721,7 +1722,7 @@ module.exports = function(root) {
 
 },{}],8:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -1791,7 +1792,6 @@ let zuix = null;
  * @return {ComponentContext} The component context instance.
  * @constructor
  */
-
 function ComponentContext(zuixInstance, options, eventCallback) {
     zuix = zuixInstance;
     this._options = null;
@@ -2370,7 +2370,7 @@ module.exports = ComponentContext;
 
 },{"../helpers/Logger":2,"../helpers/Util":4,"../helpers/ZxQuery":5,"./OptionAttributes":11}],9:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -2902,7 +2902,7 @@ function lazyElementCheck(element) {
 
 },{"../helpers/Logger":2,"../helpers/Util":4,"../helpers/ZxQuery":5,"./../helpers/AsynChain":1,"./OptionAttributes":11}],10:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -3346,7 +3346,7 @@ module.exports = ContextController;
 
 },{"../helpers/ZxQuery":5}],11:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -3410,7 +3410,7 @@ module.exports = function(root) {
 
 },{}],12:[function(_dereq_,module,exports){
 /*
- * Copyright 2015-2017 G-Labs. All Rights Reserved.
+ * Copyright 2015-2018 G-Labs. All Rights Reserved.
  *         https://zuixjs.github.io/zuix
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -3885,7 +3885,7 @@ function hook(path, handler) {
 }
 
 /**
- * Fires a ZUIX hook.
+ * Fires a zUIx hook.
  *
  * @private
  * @param {object} context
@@ -4419,7 +4419,7 @@ Zuix.prototype.trigger = function(context, eventPath, eventData) {
     return this;
 };
 /**
- * Registers a callback for a global ZUIX event.
+ * Registers a callback for a global zUIx event.
  * There can only be one callback for each kind of global hook event.
  * Pass null as <eventHandler> to stop listening to a previously registered callback.
  *
@@ -4769,6 +4769,5 @@ module.exports = function(root) {
     return zuix;
 };
 
-},{"../helpers/Logger":2,"../helpers/TaskQueue":3,"../helpers/Util":4,"../helpers/ZxQuery":5,"./ComponentCache":7,"./ComponentContext":8,"./Componentizer":9,"./ContextController":10,"./OptionAttributes":11}]},{},[6])
-(6)
+},{"../helpers/Logger":2,"../helpers/TaskQueue":3,"../helpers/Util":4,"../helpers/ZxQuery":5,"./ComponentCache":7,"./ComponentContext":8,"./Componentizer":9,"./ContextController":10,"./OptionAttributes":11}]},{},[6])(6)
 });
