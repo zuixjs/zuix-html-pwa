@@ -156,6 +156,13 @@ You can so create your own shared component library to use across all of your we
 If you have more questions about how to use this template do not esitate to [file an issue](https://github.com/zuixjs/zuix-html-pwa/issues).
 
 
+## Service Worker and Offline mode
+
+A service worker is also included with this template. This is a script (`sw.js`) that runs in the background as a seprate thread from the main page and takes care of providing caching of most resources with a fallback mechanism in presence of network errors.
+This makes the application to launch even if there's no network connection, like with a real mobile app. It also provide a configurable `404.html` *"not found"* page and `offline.html` page.
+When publishing a new version of the application the *version number* found at the top of the `sw.js` file **must be increased** in order to clean the cache and correctly update the application files.
+
+
 ## Debugging
 
 To enable verbose debugging information in the browser console, comment out the last line in the `index.js` file as shown below:

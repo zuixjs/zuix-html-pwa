@@ -1,4 +1,4 @@
-/* zUIx v1.0.0 18.08.28 13:45:36 */
+/* zUIx v1.0.1 18.08.30 21:48:09 */
 
 /** @typedef {Zuix} window.zuix */
 (function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.zuix = f()}})(function(){var define,module,exports;return (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(_dereq_,module,exports){
@@ -598,7 +598,7 @@ const util = _dereq_('./Util.js');
  * @private
  * @callback IterationCallback
  * @param {number} i Iteration count.
- * @param {object} item Current element.
+ * @param {object} item Current element (same as `this`).
  * @this {object}
  */
 
@@ -608,6 +608,7 @@ const util = _dereq_('./Util.js');
  * @callback ElementsIterationCallback
  * @param {number} count Iteration count.
  * @param {Element} item Current element.
+ * @param {ZxQuery} $item ZxQuery wrapped element (same as 'this').
  * @this {ZxQuery}
  */
 
@@ -654,7 +655,7 @@ function triggerEventHandlers(el, path, evt) {
     const element = z$(el);
     z$.each(_zuix_events_mapping, function() {
         if (this.element === el && this.path === path) {
-            this.handler.call(element, evt);
+            this.handler.call(element, evt, element);
         }
     });
 }
@@ -874,7 +875,7 @@ ZxQuery.prototype.one = function(eventPath, eventHandler) {
         if (fired) return;
         fired = true;
         z$(this).off(eventPath, eventHandler);
-        (eventHandler).call(this, a, b);
+        (eventHandler).call(this, a, b, this);
     });
     return this;
 };
@@ -1245,7 +1246,7 @@ z$.each = function(items, iterationCallback) {
                 if (item instanceof Element) {
                     item = z$(item);
                 }
-                if (iterationCallback.call(item, i, items[i]) === false) {
+                if (iterationCallback.call(item, i, items[i], item) === false) {
                     break;
                 }
                 count++;
@@ -1775,6 +1776,7 @@ const util =
  * @callback EventCallback
  * @param {string} event Event name.
  * @param {Object} data Event data.
+ * @param {ZxQuery} $el ZxQuery wrapped element that sourced the event (same as `this`).
  * @this {ZxQuery}
  */
 
@@ -2031,7 +2033,7 @@ ComponentContext.prototype.model = function(model) {
     this.modelToView();
     // call controller `update` method when model is updated
     if (this._c != null && util.isFunction(this._c.update)) {
-        this._c.update.call(this._c);
+        this._c.update.call(this._c, this._c);
     }
     return this;
 };
@@ -2146,18 +2148,18 @@ ComponentContext.prototype.loadCss = function(options, enableCaching) {
         success: function(viewCss) {
             context.style(viewCss);
             if (util.isFunction(options.success)) {
-                (options.success).call(context, viewCss);
+                (options.success).call(context, viewCss, context);
             }
         },
         error: function(err) {
             _log.e(err, context);
             if (util.isFunction(options.error)) {
-                (options.error).call(context, err);
+                (options.error).call(context, err, context);
             }
         },
         then: function() {
             if (util.isFunction(options.then)) {
-                (options.then).call(context);
+                (options.then).call(context, context);
             }
         }
     });
@@ -2206,10 +2208,10 @@ ComponentContext.prototype.loadHtml = function(options, enableCaching) {
     if (inlineViews[htmlPath] != null) {
         context.view(inlineViews[htmlPath]);
         if (util.isFunction(options.success)) {
-            (options.success).call(context, inlineViews[htmlPath]);
+            (options.success).call(context, inlineViews[htmlPath], context);
         }
         if (util.isFunction(options.then)) {
-            (options.then).call(context);
+            (options.then).call(context, context);
         }
     } else {
         // TODO: check if view caching is working in this case too
@@ -2228,10 +2230,10 @@ ComponentContext.prototype.loadHtml = function(options, enableCaching) {
                 context.view(inlineElement.innerHTML);
             }
             if (util.isFunction(options.success)) {
-                (options.success).call(context, inlineElement.innerHTML);
+                (options.success).call(context, inlineElement.innerHTML, context);
             }
             if (util.isFunction(options.then)) {
-                (options.then).call(context);
+                (options.then).call(context, context);
             }
         } else {
             const cext = util.isNoU(options.cext) ? '.html' : options.cext;
@@ -2243,18 +2245,18 @@ ComponentContext.prototype.loadHtml = function(options, enableCaching) {
                 success: function(viewHtml) {
                     context.view(viewHtml);
                     if (util.isFunction(options.success)) {
-                        (options.success).call(context, viewHtml);
+                        (options.success).call(context, viewHtml, context);
                     }
                 },
                 error: function(err) {
                     _log.e(err, context);
                     if (util.isFunction(options.error)) {
-                        (options.error).call(context, err);
+                        (options.error).call(context, err, context);
                     }
                 },
                 then: function() {
                     if (util.isFunction(options.then)) {
-                        (options.then).call(context);
+                        (options.then).call(context, context);
                     }
                 }
             });
@@ -2317,12 +2319,13 @@ ComponentContext.prototype.modelToView = function() {
             if (boundField == null) {
                 boundField = this.attr(_optionAttributes.dataUiField);
             }
+            const v = z$(_t._view);
             if (typeof _t._model === 'function') {
-                (_t._model).call(z$(_t._view), this, boundField);
+                (_t._model).call(v, this, boundField, v);
             } else {
                 const boundData = util.propertyFromPath(_t._model, boundField);
                 if (typeof boundData === 'function') {
-                    (boundData).call(z$(_t._view), this, boundField);
+                    (boundData).call(v, this, boundField, v);
                 } else if (boundData != null) {
                     // try to guess target property
                     switch (el.tagName.toLowerCase()) {
@@ -3011,11 +3014,12 @@ function ContextController(context) {
     };
     /** @protected */
     this.eventRouter = function(e) {
+        const v = _t.view();
         if (typeof context._behaviorMap[e.type] === 'function') {
-            context._behaviorMap[e.type].call(_t.view(), e, e.detail);
+            context._behaviorMap[e.type].call(v, e, e.detail, v);
         }
         if (typeof context._eventMap[e.type] === 'function') {
-            context._eventMap[e.type].call(_t.view(), e, e.detail);
+            context._eventMap[e.type].call(v, e, e.detail, v);
         }
         // TODO: else-> should report anomaly
     };
@@ -3485,6 +3489,7 @@ _dereq_('./ComponentCache');
  *
  * @callback ContextErrorCallback
  * @param {Object} error
+ * @param {ComponentContext} ctx The component context object (same as `this`).
  * @this {ComponentContext}
  */
 
@@ -3492,7 +3497,7 @@ _dereq_('./ComponentCache');
  * Callback function triggered when a component has been successfully loaded.
  *
  * @callback ContextReadyCallback
- * @param {ComponentContext} ctx The component context.
+ * @param {ComponentContext} ctx The component context (same as `this`).
  * @this {ComponentContext}
  */
 
@@ -3771,7 +3776,7 @@ function loadResources(ctx, options) {
                     error: function(err) {
                         _log.e(err, ctx);
                         if (util.isFunction(options.error)) {
-                            (ctx.error).call(ctx, err);
+                            (ctx.error).call(ctx, err, ctx);
                         }
                     }
                 });
@@ -3820,7 +3825,7 @@ function unload(context) {
                 context._c.view().detach();
             }
             if (util.isFunction(context._c.destroy)) {
-                context._c.destroy.call(context);
+                context._c.destroy.call(context, context);
             }
         }
         // detach the container from the DOM as well
@@ -3894,7 +3899,7 @@ function hook(path, handler) {
  */
 function trigger(context, path, data) {
     if (util.isFunction(_hooksCallbacks[path])) {
-        _hooksCallbacks[path].call(context, data);
+        _hooksCallbacks[path].call(context, data, context);
     }
 }
 
@@ -3978,14 +3983,14 @@ function loadController(context, task) {
                         } catch (e) {
                             _log.e(new Error(), e, ctrlJs, context);
                             if (util.isFunction(context.error)) {
-                                (context.error).call(context, e);
+                                (context.error).call(context, e, context);
                             }
                         }
                     },
                     error: function(err) {
                         _log.e(err, new Error(), context);
                         if (util.isFunction(context.error)) {
-                            (context.error).call(context, err);
+                            (context.error).call(context, err, context);
                         }
                     },
                     then: function() {
@@ -4124,7 +4129,7 @@ function createComponent(context, task) {
                                 error: function(err) {
                                     _log.e(err, context);
                                     if (util.isFunction(context.options().error)) {
-                                        (context.options().error).call(context, err);
+                                        (context.options().error).call(context, err, context);
                                     }
                                 },
                                 then: function() {
