@@ -252,5 +252,6 @@ Place the *using* commands preferably at the top of `index.js`. You can remove f
 
 - [zUIx.js](https://zuixjs.org)
 - [zKit](https://zuixjs.github.io/zkit/)
+- [PWA Builder](https://www.pwabuilder.com/)
 - [Progressive Web App](https://developers.google.com/web/progressive-web-apps)
 - [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
