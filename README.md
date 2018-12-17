@@ -54,10 +54,10 @@ The main file is the `index.html`. This file includes some layout bits that are 
       home.css
       home.html
       home/ (folder with other files referenced in home.html/js)
-         news_list.css
-         news_list.html
-         news_list.js
-         news_list/ (folder with other files referenced in news_list.html/js)
+         items_list.css
+         items_list.html
+         items_list.js
+         items_list/ (folder with other files referenced in items_list.html/js)
       messages.css
       messages.html
       notifications.css
@@ -118,24 +118,24 @@ For a deeper insight on using these special attributes for component-based devel
 
 ### The news list
 
-In order to display the list of news articles, the `pages/home` is using the `pages/home/news_list` component.
+In order to display the list of news articles, the `pages/home` is using the `pages/home/items_list` component.
 
 **pages/home.html** (snippet)
 ```html
 ...
 
 <!-- Top Stories -->
-<div data-ui-load="pages/home/news_list"
+<div data-ui-load="pages/home/items_list"
      data-o-rss="http://rss.cnn.com/rss/edition.rss"></div>
 
 <!-- World News -->
-<div data-ui-load="pages/home/news_list"
+<div data-ui-load="pages/home/items_list"
      data-o-rss="http://rss.cnn.com/rss/edition_world.rss"></div>
 
 ...
 ```
 
-Once the `news_list` component is loaded it will read the attribute `data-o-rss` of the element and download the RSS feed specified by it. Then it will parse the RSS feed and render it to the wrapping element.
+Once the `items_list` component is loaded it will read the attribute `data-o-rss` of the element and download the RSS feed specified by it. Then it will parse the RSS feed and render it to the wrapping element.
 This component is just an example and you can modify and adapt it to work with any data source or it can be replace with a server-side rendering approach.
 
 ### About the @lib prefix
