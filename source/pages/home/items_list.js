@@ -7,7 +7,6 @@ zuix.controller(function(cp) {
   cp.create = function() {
     let url = cp.view().attr('data-o-rss');
     // Use a proxy to prevent CORS policy restrictions errors
-    url = '//cors-anywhere.herokuapp.com/'+url;
     fetchList(url);
   };
 
@@ -47,7 +46,6 @@ zuix.controller(function(cp) {
 
   // Download RSS feed
   function fetchList(rssUrl) {
-    // CORS proxy https://cors-anywhere.herokuapp.com/
     zx.$.ajax({
       url: rssUrl,
       success: function(res) {

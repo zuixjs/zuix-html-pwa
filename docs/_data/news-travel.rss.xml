@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title><![CDATA[CNN.com - RSS Channel - App Travel Section]]></title>
+        <description>
+            <![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]></description>
+        <link>https://www.cnn.com/app-travel-section/index.html</link>
+        <image>
+            <url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+            <title>CNN.com - RSS Channel - App Travel Section</title>
+            <link>https://www.cnn.com/app-travel-section/index.html</link>
+        </image>
+        <generator>coredev-bumblebee</generator>
+        <lastBuildDate>Tue, 15 Feb 2022 10:35:20 GMT</lastBuildDate>
+        <pubDate>Mon, 14 Feb 2022 09:41:22 GMT</pubDate>
+        <copyright><![CDATA[Copyright (c) 2022 Turner Broadcasting System, Inc. All Rights Reserved.]]></copyright>
+        <language><![CDATA[en-US]]></language>
+        <ttl>10</ttl>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml"
+                     href="http://rss.cnn.com/rss/edition_travel"/>
+        <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition_travel"/>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+        <item>
+            <title><![CDATA[They met on Valentine's Day while hiking in the Himalayas]]></title>
+            <description>
+                <![CDATA[It was Valentine's Day 1996 when British backpacker Lee Green walked into a mountain lodge in Nepal and encountered New Zealand traveler Mandy Halse for the first time. The two have been exploring the world together ever since. ]]></description>
+            <link>https://www.cnn.com/travel/article/chance-encounters-valentines-day-himalayas/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/chance-encounters-valentines-day-himalayas/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 09:28:34 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211174000-himalayas-valentines-tz-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[How can we end empty 'ghost' flights?]]></title>
+            <description>
+                <![CDATA[Two years into the coronavirus pandemic, airlines are still being forced to run empty or near-empty "ghost flights" in order to hold onto coveted airport slots.]]></description>
+            <link>https://www.cnn.com/travel/article/ghost-flights-pandemic-greenpeace-cmd/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/ghost-flights-pandemic-greenpeace-cmd/index.html
+            </guid>
+            <pubDate>Sat, 12 Feb 2022 12:51:11 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211180359-plane-moon-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The fairy-tale landscape of Slovenia's Julian Alps]]></title>
+            <description>
+                <![CDATA[Slovenia's northwestern corner is packed with spectacular landscapes of towering peaks, waterfalls, rushing rivers and pristine mountain lakes, many of which are contained within Triglav, the country's only national park. ]]></description>
+            <link>https://www.cnn.com/travel/article/slovenia-julian-alps/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/slovenia-julian-alps/index.html</guid>
+            <pubDate>Fri, 11 Feb 2022 17:16:49 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-assign.jpg" height="186"
+                               width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208170256-bled-tz-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Where to see the oldest living things on Earth]]></title>
+            <description>
+                <![CDATA[Planet ramblers looking for adventure might consider spending time with these 10 living ambassadors from the past, including a bird with millions of flight miles, a rose that survived an aerial bombing and a tree linked to Buddha.]]></description>
+            <link>https://www.cnn.com/travel/article/oldest-living-things/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/oldest-living-things/index.html</guid>
+            <pubDate>Thu, 10 Feb 2022 11:18:54 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126102902-06b-oldest-living-things-yareta-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[These fancy new airline seats don't recline]]></title>
+            <description>
+                <![CDATA[Finnair's new business class Airlounge seats, soon to be rolled out across its A330 and A350 fleets, don't recline. Instead, passengers will be provided with cushions and padding to achieve their preferred positions.]]></description>
+            <link>https://www.cnn.com/travel/article/finnair-new-seats-no-recline/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/finnair-new-seats-no-recline/index.html</guid>
+            <pubDate>Fri, 11 Feb 2022 11:54:10 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210152424-04-finnair-business-class-handout-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The world's most fascinating abandoned towns and cities]]></title>
+            <description>
+                <![CDATA[Once thriving spots, these villages, towns and cities now stand abandoned. Their empty buildings, streets and even cars left for nature to reclaim over the years. ]]></description>
+            <link>https://www.cnn.com/travel/article/most-fascinating-abandoned-towns/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/most-fascinating-abandoned-towns/index.html
+            </guid>
+            <pubDate>Wed, 09 Feb 2022 12:50:34 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-super-169.jpeg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-large-11.jpeg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-vertical-large-gallery.jpeg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-video-synd-2.jpeg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-live-video.jpeg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-vertical-gallery.jpeg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-story-body.jpeg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-assign.jpeg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127095959-11-abandoned-towns-hp-video.jpeg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[How London almost got its own Eiffel Tower]]></title>
+            <description>
+                <![CDATA[London was once on track to have its own bigger, better Eiffel Tower, a gigantic metal creation that would rise to 1,200 feet. But as the creation rose over the city's suburbs, it all went wrong.]]></description>
+            <link>https://www.cnn.com/travel/article/watkins-tower-london-eiffel/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/watkins-tower-london-eiffel/index.html</guid>
+            <pubDate>Tue, 08 Feb 2022 10:29:18 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Two strangers meet on an airplane. Four years later they fall in love]]></title>
+            <description>
+                <![CDATA[High school seniors Schereéya and Anton crossed paths while flying to Virginia for a college acceptance day. Over the next few years, the two weaved in and out of one another's lives, before a road trip to New Orleans cemented their relationship.]]></description>
+            <link>https://www.cnn.com/travel/article/chance-encounters-airplane-schereeya-anton/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/chance-encounters-airplane-schereeya-anton/index.html
+            </guid>
+            <pubDate>Mon, 07 Feb 2022 13:05:10 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207093205-02-chance-encounters-airplane-road-trip-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[24 hours on the Coast Starlight, one of America's most scenic train routes]]></title>
+            <description>
+                <![CDATA[Along the West Coast of the United States, 1,377 miles of railroad tracks run from Seattle to Los Angeles -- a route often named as one of the most beautiful train journeys in America.]]></description>
+            <link>https://www.cnn.com/travel/article/coast-starlight-amtrak-train-route-intl-hnk/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/coast-starlight-amtrak-train-route-intl-hnk/index.html
+            </guid>
+            <pubDate>Fri, 04 Feb 2022 12:36:15 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131230012-amtrak-coast-starliner-ocean-view-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Why airline route maps look the way they do]]></title>
+            <description>
+                <![CDATA[If you've ever played with the in-flight route maps on board a plane or browsed the destinations on an airline's website, it all looks pretty simple. ]]></description>
+            <link>https://www.cnn.com/travel/article/airline-route-maps/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/airline-route-maps/index.html</guid>
+            <pubDate>Fri, 04 Feb 2022 10:14:49 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120121840-airline-flying-blue-sky-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Ever wonder how athletes plan their lavish trips? Here's the man who organizes them]]></title>
+            <description>
+                <![CDATA[Luxury concierge Johnny Vegas works with sporting superstars to planning entire vacations, from accommodation to daily itineraries. Having already established himself in parts of the United States and Spain, Vegas is looking to expand his concierge empire in Dubai. ]]></description>
+            <link>https://www.cnn.com/travel/article/johnny-vegas-qatar-world-cup-spt-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/johnny-vegas-qatar-world-cup-spt-intl/index.html
+            </guid>
+            <pubDate>Fri, 04 Feb 2022 09:30:10 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-super-169.png"
+                               height="619" width="1100"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-large-11.png"
+                               height="300" width="300"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-vertical-large-gallery.png"
+                               height="552" width="414"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-video-synd-2.png"
+                               height="480" width="640"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-live-video.png"
+                               height="324" width="576"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-t1-main.png"
+                               height="250" width="250"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-vertical-gallery.png"
+                               height="360" width="270"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-story-body.png"
+                               height="169" width="300"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-t1-main.png"
+                               height="250" width="250"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-assign.png"
+                               height="186" width="248"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202193336-johnny-vegas-dubai-concierge-spt-intl-00000620-hp-video.png"
+                               height="144" width="256"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Beneath the Great Wall of China lies the world's deepest high-speed railway station]]></title>
+            <description>
+                <![CDATA[With the 2022 Beijing Winter Olympics fast approaching, the world's first self-driving high-speed train is already in action, transporting athletes and officials between the two main cities hosting the games on the historic Beijing-Zhangjiakou intercity railway.]]></description>
+            <link>
+                https://www.cnn.com/travel/article/badaling-great-wall-station-high-speed-railway-intl-hnk/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/badaling-great-wall-station-high-speed-railway-intl-hnk/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 03:50:46 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127091821-02-badaling-great-wall-station-highspeed-railway-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand announces plans to reopen to the world]]></title>
+            <description>
+                <![CDATA[New Zealand has announced it will begin reopening to the world, signaling an end to nearly two years of tough border rules that have separated families and shut out almost all foreigners.]]></description>
+            <link>https://www.cnn.com/travel/article/new-zealand-borders-opening-intl-hnk/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/new-zealand-borders-opening-intl-hnk/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 10:36:06 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202221352-jacinda-ardern-012322-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[What is it like to fly on a small plane compared to a big plane?]]></title>
+            <description>
+                <![CDATA[What's the difference between flying on a small plane versus a large one, besides the price?]]></description>
+            <link>https://www.cnn.com/travel/article/flying-small-vs-big-airplane-explainer-cmd/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/flying-small-vs-big-airplane-explainer-cmd/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 03:04:41 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220130222304-cessna-airport-china-file-12292021-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[10 prettiest ski resorts in Europe for alpine fans]]></title>
+            <description>
+                <![CDATA[Choosing the most beautiful ski resort in the Alps is like picking the prettiest diamond.]]></description>
+            <link>https://www.cnn.com/travel/article/alpine-ski-resorts/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/alpine-ski-resorts/index.html</guid>
+            <pubDate>Wed, 02 Feb 2022 12:44:54 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/160105164129-05-ski-resorts-zermatt-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Plane battling winds at Heathrow nearly topples over]]></title>
+            <description>
+                <![CDATA[As storms buffet the UK, footage has emerged of a pilot pulling off a particularly challenging landing -- but not before the plane appeared to nearly topple over and scrape its tail on the runway.]]></description>
+            <link>https://www.cnn.com/travel/article/heathrow-landing-goaround-wind/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/heathrow-landing-goaround-wind/index.html</guid>
+            <pubDate>Wed, 02 Feb 2022 10:21:47 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220201122512-01-heathrow-ba-plane-landing-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Retired British Airways jet transformed into $1,300 per hour 'party plane']]></title>
+            <description>
+                <![CDATA[Suzannah Harvey, chief executive of the Cotswold Airport near Kemble in England, bought the Negus 747 for just over a $1 back in October 2020 and has spent around 14 months converting it into a versatile events space.]]></description>
+            <link>https://www.cnn.com/travel/article/british-airways-jet-transformed-into-party-plane/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/british-airways-jet-transformed-into-party-plane/index.html
+            </guid>
+            <pubDate>Tue, 01 Feb 2022 12:49:03 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125133752-01-british-airways-jet-transformed-into-a-bar-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Lunar New Year 2022: Welcoming the Year of the Tiger]]></title>
+            <description>
+                <![CDATA[A guide to the most common Lunar New Year traditions and superstitions, as well as insights from some of Hong Kong's most established geomancers on what the Year of the Tiger might have in store. ]]></description>
+            <link>https://www.cnn.com/travel/article/lunar-new-year-2022-cmd/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/lunar-new-year-2022-cmd/index.html</guid>
+            <pubDate>Wed, 02 Feb 2022 08:58:49 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220128092924-03-lunar-new-year-2022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[A spinal fluid leak derailed my life of travel and food, but taught me to find beauty in the small things]]></title>
+            <description>
+                <![CDATA[During any life-changing event, there comes a moment when the fog of the crisis temporarily clears, and you realize with certainty that things will never be the same again.]]></description>
+            <link>https://www.cnn.com/travel/article/jodi-ettenberg-legal-nomads-csf-leaks-wellness-cmd/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/jodi-ettenberg-legal-nomads-csf-leaks-wellness-cmd/index.html
+            </guid>
+            <pubDate>Sat, 29 Jan 2022 12:07:57 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210921024519-01-jodi-ettenberg-legal-nomads-csf-leaks-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[What should I do if my flight has been canceled or delayed?]]></title>
+            <description>
+                <![CDATA[It has been a tough slog for some air travelers ever since the winter holidays rush.]]></description>
+            <link>https://www.cnn.com/travel/article/what-to-do-flight-canceled-delayed/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/what-to-do-flight-canceled-delayed/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 23:22:09 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211227182241-01-flight-canceled-delayed-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Thailand: Home of massage, monks and meditation]]></title>
+            <description>
+                <![CDATA[Richard Quest explores Bangkok's Wat Pho temple to visit its famed massage school and take in a meditation lesson with the venerable Deputy Abbot.]]></description>
+            <link>
+                https://www.cnn.com/videos/travel/2022/01/25/quests-world-of-wonder-richard-quest-bangkok-c-block-spc.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/travel/2022/01/25/quests-world-of-wonder-richard-quest-bangkok-c-block-spc.cnn
+            </guid>
+            <pubDate>Tue, 25 Jan 2022 19:57:45 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-super-169.png"
+                               height="619" width="1100"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-large-11.png"
+                               height="300" width="300"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-vertical-large-gallery.png"
+                               height="552" width="414"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-video-synd-2.png"
+                               height="480" width="640"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-live-video.png"
+                               height="324" width="576"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-t1-main.png"
+                               height="250" width="250"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-vertical-gallery.png"
+                               height="360" width="270"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-story-body.png"
+                               height="169" width="300"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-t1-main.png"
+                               height="250" width="250"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-assign.png"
+                               height="186" width="248"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125141756-quests-world-of-wonder-richard-quest-bangkok-c-block-spc-00021404-hp-video.png"
+                               height="144" width="256"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[A 50-year pen pal friendship that began with a message in a bottle]]></title>
+            <description>
+                <![CDATA[Robbinroger Beever was 15 years old and walking home along a beach in Liberia, West Africa. ]]></description>
+            <link>https://www.cnn.com/travel/article/pen-pal-message-in-a-bottle-friendship/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/pen-pal-message-in-a-bottle-friendship/index.html
+            </guid>
+            <pubDate>Sat, 20 Feb 2021 09:00:11 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210219082221-letter-selection-edit-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Woman gives birth over the Atlantic during a flight from Africa to the US]]></title>
+            <description>
+                <![CDATA[Talk about a memorable arrival into the world -- or, in this case, above the world.]]></description>
+            <link>https://www.cnn.com/travel/article/united-flight-baby-born-during-flight-ghana-us/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/united-flight-baby-born-during-flight-ghana-us/index.html
+            </guid>
+            <pubDate>Tue, 01 Feb 2022 05:04:26 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220131154416-united-airllines-planes-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[You're trapped in a blizzard. Do you know what to do next to survive?]]></title>
+            <description>
+                <![CDATA[Warm thoughts of young romance  -- not the cold, harsh possibilities of a Midwestern road trip in winter -- were on Dawn O'Hair's mind as she left Chicago for Indianapolis to see her boyfriend.]]></description>
+            <link>https://www.cnn.com/travel/article/how-to-survive-blizzard-weather-wellness/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/how-to-survive-blizzard-weather-wellness/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 23:13:12 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181129163831-02-winter-weather-survival-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Ancient Bhutan trail set to open for first time in 60 years ]]></title>
+            <description><![CDATA[Bhutan is one of the world's most mysterious countries. ]]></description>
+            <link>https://www.cnn.com/travel/article/trans-bhutan-trail-reopening-intl-hnk/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/trans-bhutan-trail-reopening-intl-hnk/index.html
+            </guid>
+            <pubDate>Thu, 27 Jan 2022 09:56:44 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-super-169.jpeg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-large-11.jpeg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-vertical-large-gallery.jpeg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-video-synd-2.jpeg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-live-video.jpeg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-vertical-gallery.jpeg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-story-body.jpeg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-assign.jpeg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125115416-08-trans-bhutan-trail-reopens-intl-hnk-hp-video.jpeg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Tourist thrown out of Venice for sunbathing topless on war memorial]]></title>
+            <description>
+                <![CDATA[The 30-year-old visitor from the Czech Republic was fined $513 and banned from the city for 48 hours, after she was caught swimming in the lagoon and posing topless for photos beside a statue of a murdered war hero.]]></description>
+            <link>https://www.cnn.com/travel/article/tourist-nude-venice-war-memorial/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/tourist-nude-venice-war-memorial/index.html
+            </guid>
+            <pubDate>Tue, 25 Jan 2022 15:43:49 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125100615-03-naked-tourist-venice-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[What is turnip cake and why is it a popular Lunar New Year dish?]]></title>
+            <description>
+                <![CDATA[Not all Lunar New Year foods are created equal. Some only make a brief appearance at the festival for auspicious purposes. Others are so delicious they grace dim sum tables around the world all year.]]></description>
+            <link>https://www.cnn.com/travel/article/turnip-cake-loh-bak-goh-recipe-lunar-new-year-cmd/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/turnip-cake-loh-bak-goh-recipe-lunar-new-year-cmd/index.html
+            </guid>
+            <pubDate>Thu, 10 Feb 2022 14:00:48 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124141521-02-turnip-cake-recipe-panfried-turnip-cake-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The couple who fell in love in Antarctica]]></title>
+            <description>
+                <![CDATA[Nicole McGrath and Cole Heinz fell in love while working ﻿at McMurdo Station, a US research facility built on volcanic rock on Ross Island, surrounded by mountains, snow and ice.]]></description>
+            <link>https://www.cnn.com/travel/article/chance-encounters-antarctica-romance/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/chance-encounters-antarctica-romance/index.html
+            </guid>
+            <pubDate>Tue, 25 Jan 2022 13:36:28 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125132353-antarctic-kiss-tz-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[CDC adds 5 more Caribbean island destinations to its highest level of travel risk]]></title>
+            <description>
+                <![CDATA[The US Centers for Disease Control and Prevention moved five Caribbean island destinations into its highest-risk travel category for Covid-19 on Monday.]]></description>
+            <link>https://www.cnn.com/travel/article/cdc-very-high-risk-travel-destinations-january-24/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/cdc-very-high-risk-travel-destinations-january-24/index.html
+            </guid>
+            <pubDate>Mon, 24 Jan 2022 22:52:48 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220124144330-dominican-republic-punta-cana-january-2022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Why pet owners in Hong Kong are hiring private planes for their pets]]></title>
+            <description>
+                <![CDATA[Many people who are moving away from the financial capital have been unable to secure flights out of the city for their dogs and cats, leading to online groups where desperate pet parents try to pool their money to cover the cost of a charter plane.]]></description>
+            <link>https://www.cnn.com/travel/article/pet-travel-private-jets-hong-kong-intl-hnk/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/pet-travel-private-jets-hong-kong-intl-hnk/index.html
+            </guid>
+            <pubDate>Tue, 25 Jan 2022 10:41:19 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220125034450-dalmatian-lvoyage-fb-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+    </channel>
+</rss>

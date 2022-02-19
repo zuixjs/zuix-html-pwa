@@ -43,10 +43,17 @@
   -->
 
   <!-- Material Design Icons -->
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-  <!-- import zUIx library (v 0.4.9-54) -->
+  <!-- preload zuix.js library -->
+  <link rel="preload" as="script" href="js/zuix.min.js">
+  <!-- import zUIx.js library -->
   <script src="js/zuix.min.js"></script>
+
+  <!-- preload/import app bundle -->
+  <link rel="preload" as="script" href="app.bundle.js">
   <script src="app.bundle.js"></script>
 
   <!-- main app script -->

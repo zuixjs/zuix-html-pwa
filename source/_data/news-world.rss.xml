@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title><![CDATA[CNN.com - RSS Channel - World]]></title>
+        <description>
+            <![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]></description>
+        <link>https://www.cnn.com/world/index.html</link>
+        <image>
+            <url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+            <title>CNN.com - RSS Channel - World</title>
+            <link>https://www.cnn.com/world/index.html</link>
+        </image>
+        <generator>coredev-bumblebee</generator>
+        <lastBuildDate>Tue, 15 Feb 2022 10:45:04 GMT</lastBuildDate>
+        <pubDate>Wed, 02 Feb 2022 14:42:34 GMT</pubDate>
+        <copyright><![CDATA[Copyright (c) 2022 Turner Broadcasting System, Inc. All Rights Reserved.]]></copyright>
+        <language><![CDATA[en-US]]></language>
+        <ttl>10</ttl>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml"
+                     href="http://rss.cnn.com/rss/edition_world"/>
+        <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition_world"/>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+        <item>
+            <title>
+                <![CDATA[How 'Amapiano', South Africa's soulful sound, has become one of the hottest new music genres]]></title>
+            <description>
+                <![CDATA[A distinct sound is currently vibing on social feeds around the world: the deep house, log-drum driven basslines and soulful piano melodies of "Amapiano." While Amapiano dance challenges are currently sweeping TikTok, the streets of South Africa have been thrumming with its sound for years.]]></description>
+            <link>https://www.cnn.com/2022/02/15/africa/amapiano-south-africa-music-genre-origins-spc-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/africa/amapiano-south-africa-music-genre-origins-spc-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 06:28:20 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria hero 'supercop' arrested in cocaine smuggling case]]></title>
+            <description>
+                <![CDATA[Nigeria's 'super cop' Abba Kyari, has been declared wanted over his alleged involvement in a cocaine deal, the country's drug law enforcement agency, said Monday.]]></description>
+            <link>https://www.cnn.com/2022/02/14/africa/nigeria-supercop-declared-wanted-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/africa/nigeria-supercop-declared-wanted-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 03:49:45 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210730122256-01-nigeria-fbi-investigation-abba-kyari-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[How 2 Middle East powerhouses fell out, then made up ]]></title>
+            <description>
+                <![CDATA[The speed of the shifts in the Middle East's geopolitical scene is enough to give even the most seasoned regional observers whiplash ]]></description>
+            <link>https://www.cnn.com/2022/02/14/middleeast/mideast-summary-02-14-2022-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/middleeast/mideast-summary-02-14-2022-intl/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 14:03:07 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-live-video.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-story-body.jpg"
+                               height="146" width="246" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214133240-erdogan-mbz-split-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Cook Islands braces for first community Covid-19 cases]]></title>
+            <description>
+                <![CDATA[Cook Islands, a small South Pacific nation that has not experienced Covid-19 in its community, is readying for its first coronavirus infections after an infected traveler visited, Prime Minister Mark Brown said on Sunday.]]></description>
+            <link>https://www.cnn.com/travel/article/cook-islands-tourist-covid-cases/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/cook-islands-tourist-covid-cases/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 03:08:19 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213204154-cook-islands-tourist-covid-cases-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Lockheed Martin terminates $4.4 billion deal to acquire Aerojet Rocketdyne]]></title>
+            <description>
+                <![CDATA[U.S. arms maker Lockheed Martin Corp said on Sunday it terminated its plan to acquire rocket engine maker Aerojet Rocketdyne Holdings Inc for $4.4 billion.]]></description>
+            <link>https://www.cnn.com/2022/02/13/business/lockheed-martin-aerojet-rocketdyne/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/13/business/lockheed-martin-aerojet-rocketdyne/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 02:22:47 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213192207-lockheed-martin-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Looking for bargains? Here are the stocks we love]]></title>
+            <description>
+                <![CDATA[Most companies have reported fourth quarter earnings. The biggest takeaway for investors? This is a stock picker's market. Some companies are thriving while their competitors are not.]]></description>
+            <link>https://www.cnn.com/2022/02/13/investing/stocks-week-ahead/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/13/investing/stocks-week-ahead/index.html</guid>
+            <pubDate>Sun, 13 Feb 2022 12:37:02 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210104853-01-nyse-0204-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Musk blames 'fun police' for recall of feature that makes fart and goat noises]]></title>
+            <description>
+                <![CDATA[Tesla is recalling over 500,000 vehicles in the United States due to its Boombox feature, a 2020 update that allows drivers to play sounds such a bleating goat or a fart noise outside the vehicle.]]></description>
+            <link>https://www.cnn.com/2022/02/13/business/tesla-recall-boombox/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/13/business/tesla-recall-boombox/index.html</guid>
+            <pubDate>Mon, 14 Feb 2022 03:06:07 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213160732-tesla-recall-boombox-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Former Amazon employee sentenced to federal prison for involvement in bribery scheme]]></title>
+            <description>
+                <![CDATA[A former Amazon employee was sentenced to 10 months in prison and fined $50,000 for an international fraud and bribery scheme, the Department of Justice (DOJ) announced. ]]></description>
+            <link>https://www.cnn.com/2022/02/12/business/amazon-employee-bribery-scheme/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/12/business/amazon-employee-bribery-scheme/index.html
+            </guid>
+            <pubDate>Sat, 12 Feb 2022 22:36:44 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212151637-amazon-employee-bribery-scheme-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[US cities are losing 36 million trees a year. Here's why it matters ]]></title>
+            <description>
+                <![CDATA[If you're looking for a reason to care about tree loss, the nation's latest heat wave might be it.  Trees can lower summer daytime temperatures by as much as 10 degrees Fahrenheit, according to a recent study.  ]]></description>
+            <link>https://www.cnn.com/2019/07/20/health/iyw-cities-losing-36-million-trees-how-to-help-trnd/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2019/07/20/health/iyw-cities-losing-36-million-trees-how-to-help-trnd/index.html
+            </guid>
+            <pubDate>Wed, 18 Sep 2019 16:44:32 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/151223121747-tree-stock-image-getty-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Miami's Little Haiti wasn't a target for developers. Until the seas started to rise]]></title>
+            <link>https://www.cnn.com/2019/07/11/us/miami-little-haiti-climate-gentrification-weir-wxc/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2019/07/11/us/miami-little-haiti-climate-gentrification-weir-wxc/index.html
+            </guid>
+            <pubDate>Fri, 12 Jul 2019 15:14:00 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190711165722-miami-sea-level-intersection-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[How rich people could help save the planet from the climate crisis]]></title>
+            <description>
+                <![CDATA[Rich people don't just have bigger bank balances and more lavish lifestyles than the rest of us -- they also have bigger carbon footprints. ]]></description>
+            <link>https://www.cnn.com/2019/07/12/health/rich-people-climate-change-intl/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2019/07/12/health/rich-people-climate-change-intl/index.html
+            </guid>
+            <pubDate>Fri, 12 Jul 2019 09:20:40 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190705115727-leonardo-dicaprio-divestinvest-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA['Once-in-a-decade talent': Why Eileen Gu is fashion's dream model]]></title>
+            <description>
+                <![CDATA[For followers of freestyle skiing and fashion alike, the buzz surrounding Winter Olympian Eileen Gu at this year's Games has come as little surprise.]]></description>
+            <link>https://www.cnn.com/style/article/eileen-gu-china-fashion-brands-olympics-intl-hnk-mic/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/style/article/eileen-gu-china-fashion-brands-olympics-intl-hnk-mic/index.html
+            </guid>
+            <pubDate>Fri, 11 Feb 2022 14:39:38 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209131836-05-eileen-gu-fashion-model-handout-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[How a luxury watch brand has become the ultimate status symbol for young celebrities]]></title>
+            <description>
+                <![CDATA[From Joe DiMaggio to Albert Einstein, Princess Diana to Victoria Beckham, watchmaker Patek Philippe has long been a celebrity favorite. But the Swiss brand's reputation has taken an unexpected turn in recent years. ]]></description>
+            <link>https://www.cnn.com/style/article/patek-philippe-celebrity-popular-culture/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/style/article/patek-philippe-celebrity-popular-culture/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 12:48:51 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220120050951-06-patek-philippe-celebrities-cardib-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today]]></title>
+            <description>
+                <![CDATA[As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing China's ruling Communist Party -- and the International Olympic Committee (IOC), which he said is "ignoring" the safety of the country's athletes by prioritizing business and "standing next to the authoritarians."]]></description>
+            <link>https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html
+            </guid>
+            <pubDate>Fri, 04 Feb 2022 15:54:03 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Dürer drawing bought for $30 at yard sale worth more than $10 million, experts say]]></title>
+            <description>
+                <![CDATA[A 16th century drawing by one of the key figures of the German Renaissance has been valued in excess of $10 million after it was initially purchased at a yard sale for just $30 in 2017.]]></description>
+            <link>https://www.cnn.com/style/article/durer-drawing-yard-sale-scli-intl/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/style/article/durer-drawing-yard-sale-scli-intl/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 17:13:35 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220203114355-02-durer-drawing-bars-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Behind the making of 'Pam and Tommy']]></title>
+            <description>
+                <![CDATA[When a trailer for the new Hulu series "Pam & Tommy" dropped in November, screenshots of Lily James' mesmerizing transformation into the "Baywatch" icon Pamela Anderson immediately went viral.]]></description>
+            <link>https://www.cnn.com/style/article/pam-and-tommy-makeup-transformation-culture-queue/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/style/article/pam-and-tommy-makeup-transformation-culture-queue/index.html
+            </guid>
+            <pubDate>Thu, 03 Feb 2022 10:49:33 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220202112000-pam-and-tommy-tease-crop-2-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Dramatic photos cast Europe's ancient castles in a new light]]></title>
+            <description>
+                <![CDATA[For centuries, medieval castles -- hulking, isolated triumphs of masonry -- have held a special place in the Western imagination, evoking at once a sense of history, fantasy, war and romance. They are the perennial backdrops for period dramas and children's books, travel brochures and fashion spreads. ]]></description>
+            <link>https://www.cnn.com/style/article/frederic-chaubin-stone-age-castles/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/style/article/frederic-chaubin-stone-age-castles/index.html
+            </guid>
+            <pubDate>Mon, 07 Feb 2022 09:18:37 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211014143421-04c-european-castles-frederic-chaubin-book-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[London was building a bigger rival to the Eiffel Tower. Then it all went wrong]]></title>
+            <description>
+                <![CDATA[Somewhere beneath the pitch of England's national stadium in Wembley, London, lie the foundations of what could have been the city's tallest building. Inspired by the Eiffel Tower in Paris, the Great Tower of London was poised to surpass it in height and reach almost 1,200 feet.]]></description>
+            <link>https://www.cnn.com/travel/article/watkins-tower-london-eiffel/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/watkins-tower-london-eiffel/index.html</guid>
+            <pubDate>Tue, 08 Feb 2022 10:29:18 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220127103424-01-watkins-tower-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The world's most romantic places]]></title>
+            <description>
+                <![CDATA[Maybe you'd choose the white sands and turquoise waters of a deserted tropical beach. Perhaps it's the lure of iconic cultural cities such as Paris, Venice or Istanbul. Then again, the call of the wild from a safari is a pretty special way to spend time with your beloved.]]></description>
+            <link>https://www.cnn.com/travel/article/romantic-places/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/romantic-places/index.html</guid>
+            <pubDate>Wed, 09 Feb 2022 17:35:56 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190207160049-21-romantic-places-buenos-aires-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Traveling to Italy: What you need to know]]></title>
+            <description>
+                <![CDATA[If you're planning to travel to Italy, here's what you'll need to know and expect if you want to visit during the Covid-19 pandemic. ]]></description>
+            <link>https://www.cnn.com/travel/article/italy-travel-covid-19/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/italy-travel-covid-19/index.html</guid>
+            <pubDate>Wed, 09 Feb 2022 19:16:25 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200911165224-italy-colosseum-tourists-1-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[23 best Turkish foods]]></title>
+            <description>
+                <![CDATA[Turkey may be famous for its kebabs, but the popular dish is just the tip of the iceberg when it comes to Turkish cuisine.]]></description>
+            <link>https://www.cnn.com/travel/article/best-turkish-foods/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/best-turkish-foods/index.html</guid>
+            <pubDate>Tue, 23 Feb 2021 01:21:28 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200402101927-18-best-turkish-foods-lahmacun-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Breakfast around the world: How different places start the day]]></title>
+            <description>
+                <![CDATA[When it comes to breakfast foods around the world, there are as many ways to enjoy the first meal of the day as there are to say "good morning."]]></description>
+            <link>https://www.cnn.com/travel/article/breakfast-food-around-the-world/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/breakfast-food-around-the-world/index.html
+            </guid>
+            <pubDate>Fri, 28 Jan 2022 11:33:05 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190515173104-03-breakfast-around-the-world-avacado-toast-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The Italian village that doesn't speak Italian]]></title>
+            <description>
+                <![CDATA[Nicknamed Italy's "Little Provence," Sancto Lucio de Coumboscuro is an isolated village in almost every sense.]]></description>
+            <link>https://www.cnn.com/travel/article/the-italian-village-that-doesnt-speak-italian/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/the-italian-village-that-doesnt-speak-italian/index.html
+            </guid>
+            <pubDate>Mon, 24 Jan 2022 09:49:27 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220113000714-03-coumboscuro-concert-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The world's fastest trains]]></title>
+            <description>
+                <![CDATA[As the world faces up to climate change, short-haul flights look increasingly unattractive to many travelers. The flygskam (flight shame) phenomenon that started in Scandinavia is already inspiring many travelers to reduce their reliance on airlines.]]></description>
+            <link>https://www.cnn.com/travel/article/worlds-fastest-trains-cmd/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/worlds-fastest-trains-cmd/index.html</guid>
+            <pubDate>Fri, 10 Dec 2021 20:25:10 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-super-169.jpeg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-large-11.jpeg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-vertical-large-gallery.jpeg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-video-synd-2.jpeg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-live-video.jpeg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-vertical-gallery.jpeg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-story-body.jpeg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-assign.jpeg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211210100052-211209080300-restricted-11-worlds-fastest-trains-hp-video.jpeg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[This 10-year-old asked Santa last year for a Covid cure. This year he has a new request]]></title>
+            <description>
+                <![CDATA[In their letters to Santa Claus, most kids ask for toys, dolls or maybe a new Xbox. ]]></description>
+            <link>https://www.cnn.com/2021/12/18/us/jonah-santa-letters-covid-cec/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2021/12/18/us/jonah-santa-letters-covid-cec/index.html</guid>
+            <pubDate>Sat, 18 Dec 2021 11:29:07 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211216093550-04-jonah-letter-to-santa-this-year-cec-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break]]></title>
+            <description>
+                <![CDATA[Turquoise LeJeune Parker ends every class by telling each of her students she loves them.]]></description>
+            <link>
+                https://www.cnn.com/2021/12/19/us/north-carolina-teacher-fundraiser-food-winter-break-durham/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2021/12/19/us/north-carolina-teacher-fundraiser-food-winter-break-durham/index.html
+            </guid>
+            <pubDate>Sun, 19 Dec 2021 05:21:54 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211218181012-04-north-carolina-teacher-fundraiser-food-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Meet CNN's Hero of the Year]]></title>
+            <description><![CDATA[• Hear Shirley Raines' emotional remarks after big win
+• Photos: 'CNN Heroes: An All-Star Tribute']]></description>
+            <link>https://www.cnn.com/2021/12/12/us/shirley-raines-2021-cnn-hero-of-the-year/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2021/12/12/us/shirley-raines-2021-cnn-hero-of-the-year/index.html
+            </guid>
+            <pubDate>Mon, 13 Dec 2021 03:18:22 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211212140717-08-cnn-heroes-top-10-shirley-raines-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[0% intro APR until 2023 is 100% insane]]></title>
+            <link>https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&amp;utm_campaign=ta-cc-co-cnn-welref-ron-5-hp-sfpb&amp;utm_medium=cpc&amp;utm_source=cnn</link>
+            <guid isPermaLink="true">
+                https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&amp;utm_campaign=ta-cc-co-cnn-welref-ron-5-hp-sfpb&amp;utm_medium=cpc&amp;utm_source=cnn
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210726154319-theascent-bluecard-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[2022: The Year of the One-Card Wallet]]></title>
+            <link>https://www.fool.com/mms/mark/the-ascent-discb-landing-page/?utm_site=theascent&amp;utm_campaign=ta-cc-co-cnn-discb-ron-5-hp-sfpb&amp;utm_medium=cpc&amp;utm_source=cnn</link>
+            <guid isPermaLink="true">https://www.fool.com/mms/mark/the-ascent-discb-landing-page/?utm_site=theascent&amp;utm_campaign=ta-cc-co-cnn-discb-ron-5-hp-sfpb&amp;utm_medium=cpc&amp;utm_source=cnn</guid>
+        </item>
+    </channel>
+</rss>

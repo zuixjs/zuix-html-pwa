@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title><![CDATA[CNN.com - RSS Channel - Regions - Europe]]></title>
+        <description>
+            <![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]></description>
+        <link>https://www.cnn.com/europe/index.html</link>
+        <image>
+            <url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+            <title>CNN.com - RSS Channel - Regions - Europe</title>
+            <link>https://www.cnn.com/europe/index.html</link>
+        </image>
+        <generator>coredev-bumblebee</generator>
+        <lastBuildDate>Tue, 15 Feb 2022 10:47:00 GMT</lastBuildDate>
+        <pubDate>Tue, 14 Dec 2021 16:20:25 GMT</pubDate>
+        <copyright><![CDATA[Copyright (c) 2022 Turner Broadcasting System, Inc. All Rights Reserved.]]></copyright>
+        <language><![CDATA[en-US]]></language>
+        <ttl>10</ttl>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml"
+                     href="http://rss.cnn.com/rss/edition_europe"/>
+        <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition_europe"/>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+        <item>
+            <title><![CDATA[Why Europe's fight against the pandemic is about to get much more dangerous ]]></title>
+            <link>https://www.cnn.com/2021/12/14/europe/europe-covid-vaccines-opposition-populism-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2021/12/14/europe/europe-covid-vaccines-opposition-populism-intl/index.html
+            </guid>
+            <pubDate>Tue, 14 Dec 2021 12:00:19 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211114072846-austria-lockdown-unvaccinated-intl-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Beijing Winter Olympics 2022]]></title>
+            <link>https://www.cnn.com/specials/sport/beijing-winter-olympics-2022</link>
+            <guid isPermaLink="true">https://www.cnn.com/specials/sport/beijing-winter-olympics-2022</guid>
+            <pubDate>Mon, 14 Feb 2022 17:16:31 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021215414-winter-olympics-preliminaries-1021-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus]]></title>
+            <link>https://www.cnn.com/specials/world/coronavirus-outbreak-intl-hnk</link>
+            <guid isPermaLink="true">https://www.cnn.com/specials/world/coronavirus-outbreak-intl-hnk</guid>
+            <pubDate>Tue, 08 Feb 2022 15:24:09 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Cryptocurrency]]></title>
+            <description>
+                <![CDATA[Everything you need to know about bitcoin, blockchain, NFTs and more. Plus, the latest cryptocurrency news, interviews and investing guides.]]></description>
+            <link>https://www.cnn.com/specials/investing/cryptocurrency</link>
+            <guid isPermaLink="true">https://www.cnn.com/specials/investing/cryptocurrency</guid>
+            <pubDate>Tue, 04 May 2021 12:26:27 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Russia]]></title>
+            <description>
+                <![CDATA[View the latest Russia news and videos, including politics and business headlines.]]></description>
+            <link>https://www.cnn.com/specials/europe/russia</link>
+            <guid isPermaLink="true">https://www.cnn.com/specials/europe/russia</guid>
+            <pubDate>Mon, 14 Feb 2022 08:01:41 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Japan]]></title>
+            <description>
+                <![CDATA[View the latest Japan news and videos, including politics, travel and style headlines.]]></description>
+            <link>https://www.cnn.com/specials/asia/japan</link>
+            <guid isPermaLink="true">https://www.cnn.com/specials/asia/japan</guid>
+            <pubDate>Thu, 10 Feb 2022 02:55:31 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Are cell phone calls on airplane flights inevitable?]]></title>
+            <description>
+                <![CDATA[Ah, holiday travel. Between huge crowds and weather delays, flying during this time of year is hectic. Now close your eyes and imagine the entire scenario with one additional annoyance: Loud talkers yammering into their cell phones at 35,000 feet.]]></description>
+            <link>https://www.cnn.com/travel/article/cell-phone-calls-airplanes/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/cell-phone-calls-airplanes/index.html</guid>
+            <pubDate>Fri, 20 Dec 2019 19:54:02 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211185649-05-phones-on-planes-texting-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA['Hamlet' in the skies? The story behind Taiwan's newest airline]]></title>
+            <description>
+                <![CDATA[Debuting its first flights in January 2020, Taiwanese start-up STARLUX Airlines could be the first new player in 30 years to upend the island's duopoly aviation market. ]]></description>
+            <link>https://www.cnn.com/travel/article/starlux-airlines-taiwan/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/starlux-airlines-taiwan/index.html</guid>
+            <pubDate>Wed, 18 Dec 2019 02:41:26 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191112145316-20191026-p3849-deliveryflight-starlux-hr-027-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Copenhagen's new Metro is a thing of beauty]]></title>
+            <description>
+                <![CDATA[In Copenhagen, traffic is usually caused by the two-wheel variety of transportation: the bicycle. ]]></description>
+            <link>https://www.cnn.com/travel/article/metro-cityring-copenhagen-denmark/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/metro-cityring-copenhagen-denmark/index.html
+            </guid>
+            <pubDate>Wed, 11 Dec 2019 12:27:01 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191211121918-copenhagen-metro-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The hotel designed for likes]]></title>
+            <link>https://www.cnn.com/travel/article/mystery-hotel-budapest/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/mystery-hotel-budapest/index.html</guid>
+            <pubDate>Mon, 23 Dec 2019 11:03:13 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191114121832-mystery-hotel-budapest-the-great-hall-restaurant-lounge-b-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The best luxury bars in Budapest]]></title>
+            <link>https://www.cnn.com/travel/article/luxury-bars-budapest/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/luxury-bars-budapest/index.html</guid>
+            <pubDate>Fri, 20 Dec 2019 11:46:53 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191202161015-budapest-bars---high-note-skybar---aria-hotel-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Budapest 's fine dining revolution]]></title>
+            <link>https://www.cnn.com/travel/article/fine-dining-budapest/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/fine-dining-budapest/index.html</guid>
+            <pubDate>Mon, 02 Dec 2019 11:08:37 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191126174833-budapest-restaurants---salt-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Luxury atop one of the world's tallest hotels]]></title>
+            <description>
+                <![CDATA[From traditional souks, mosques and UNESCO World Heritage sites, to futuristic skyscrapers, Baku, capital of Azerbaijan, offers an eclectic mix of old and new. ]]></description>
+            <link>https://www.cnn.com/travel/article/fairmont-baku-flame-towers-azerbaijan/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/fairmont-baku-flame-towers-azerbaijan/index.html
+            </guid>
+            <pubDate>Mon, 02 Sep 2019 14:23:18 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/190828173640-fairmont-flame-towers-pool-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[They say he lived to be 168. Here's how]]></title>
+            <description>
+                <![CDATA[There are a number of destinations around the world famed for the longevity of their residents. ]]></description>
+            <link>https://www.cnn.com/travel/article/long-life-lerik-azerbaijan-wellness/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/long-life-lerik-azerbaijan-wellness/index.html
+            </guid>
+            <pubDate>Tue, 10 Dec 2019 22:03:55 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/191205171643-oldest-man-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[This fire has been burning for 4,000 years]]></title>
+            <description>
+                <![CDATA["This fire has burned 4,000 years and never stopped," says Aliyeva Rahila. "Even the rain coming here, snow, wind -- it never stops burning."]]></description>
+            <link>https://www.cnn.com/travel/article/yanar-dag-azerbaijan-land-of-fire/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/yanar-dag-azerbaijan-land-of-fire/index.html
+            </guid>
+            <pubDate>Wed, 31 Oct 2018 13:29:54 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/181030090641-yanar-dag-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Russia says it's withdrawing some troops following exercises around Ukraine, but major drills continue]]></title>
+            <description>
+                <![CDATA[Russia announced Tuesday that some of its troops would return to base after completing recent drills, but stressed that other major military exercises would continue.]]></description>
+            <link>https://www.cnn.com/2022/02/15/europe/ukraine-russia-news-tuesday-troop-pullback-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/europe/ukraine-russia-news-tuesday-troop-pullback-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215101918-russian-troops-exit-handout-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Videos show Russian units and missiles advancing toward Ukraine border]]></title>
+            <description>
+                <![CDATA[The build-up of Russian forces close to the Ukrainian border continues apace, with everything from submarines and amphibious landing ships in the Black Sea to short-range ballistic missiles, tanks and howitzers around Ukraine's northeastern edges.]]></description>
+            <link>https://www.cnn.com/2022/02/14/europe/russia-ukraine-troops-social-media-video-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/europe/russia-ukraine-troops-social-media-video-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The latest on the Ukraine-Russia border crisis]]></title>
+            <description>
+                <![CDATA[US officials believe Russia could launch an invasion of Ukraine this week but are still holding out hope that diplomacy can prevail. Follow here for the latest news updates here.]]></description>
+            <link>https://www.cnn.com/europe/live-news/ukraine-russia-news-02-14-22-intl/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/europe/live-news/ukraine-russia-news-02-14-22-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214040556-ukraine-front-line-02132022-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Russia has surrounded Ukraine on three sides. Here's where an invasion could be launched]]></title>
+            <description>
+                <![CDATA[Russia has amassed more than 100,000 troops near Ukraine's border in recent weeks, according to US estimates, raising fears from Western and Ukrainian intelligence officials that an invasion could be imminent.]]></description>
+            <link>https://www.cnn.com/2022/02/12/europe/russia-ukraine-invasion-paths-map-cmd-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/12/europe/russia-ukraine-invasion-paths-map-cmd-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220206044947-06-russia-troop-movement-satellite-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Camilla, Duchess of Cornwall tests positive for Covid-19]]></title>
+            <description>
+                <![CDATA[Camilla, Duchess of Cornwall has tested positive for Covid-19, Clarence House said on Monday, four days after her husband Prince Charles was revealed to have contracted the virus.]]></description>
+            <link>https://www.cnn.com/2022/02/14/europe/camilla-covid-intl-scli/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/14/europe/camilla-covid-intl-scli/index.html</guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214124629-02-camilla-covid-intl-scli-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[The West is a player in the Ukraine information war. Unlike Russia, it has to convince the public]]></title>
+            <description>
+                <![CDATA[Corpses strewn through wrecked buildings in the aftermath of an apparently deadly explosion. Distraught mourners, grieving for lost loved ones. And amid the smoldering ruins, evidence of Western military equipment.]]></description>
+            <link>
+                https://www.cnn.com/2022/02/13/europe/ukraine-russia-disinformation-us-uk-intelligence-cmd-gbr-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/13/europe/ukraine-russia-disinformation-us-uk-intelligence-cmd-gbr-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211122330-07-ukraine-russia-disinformation-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The latest on Ukraine and Russia tensions]]></title>
+            <description>
+                <![CDATA[US Secretary of State Antony Blinken has said that "no one should be surprised" if Russia instigates a provocation which it then uses to justify military action in Ukraine. Follow here for the latest news.]]></description>
+            <link>https://www.cnn.com/europe/live-news/ukraine-russia-news-02-13-22/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/europe/live-news/ukraine-russia-news-02-13-22/index.html</guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211045117-ukraine-tank-mud-02102022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title/>
+            <link>https://www.cnn.com/specials/europe/russia</link>
+        </item>
+        <item>
+            <title>
+                <![CDATA['Freedom Convoy' protesters enter Paris and block traffic before they're dispersed with tear gas]]></title>
+            <description>
+                <![CDATA[Protesters in a so-called "Freedom Convoy" made it past police checkpoints in central Paris on Saturday, with demonstrators completely blocking traffic in the French capital before they were met with tear gas fired by officers.]]></description>
+            <link>https://www.cnn.com/2022/02/12/europe/france-freedom-convoy-truckers-protest-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/12/europe/france-freedom-convoy-truckers-protest-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Floor collapses at London bar, leaving 13 injured]]></title>
+            <description>
+                <![CDATA[A mezzanine floor collapsed at a bar in east London on Saturday, leaving more than a dozen people injured.]]></description>
+            <link>https://www.cnn.com/2022/02/13/europe/london-bar-mezzanine-floor-collapses-scli-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/13/europe/london-bar-mezzanine-floor-collapses-scli-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213044940-02-bar-collapse-hackney-wick-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The latest on Ukraine and Russia tensions]]></title>
+            <description>
+                <![CDATA[Tensions between Moscow and Kyiv are at their highest in years, with a large Russian troop buildup near the shared borders of the two former Soviet republics. Follow here for the latest news.]]></description>
+            <link>https://www.cnn.com/europe/live-news/ukraine-russia-news-02-12-22/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/europe/live-news/ukraine-russia-news-02-12-22/index.html</guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211165638-russian-military-forces-file-020322-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Russia may be on the brink of war. In Moscow, you might not know it]]></title>
+            <description>
+                <![CDATA[Read most headlines coming out of the West around Ukraine, and the situation looks dire. In Russia it feels different, at least as far as the public discussion goes.]]></description>
+            <link>https://www.cnn.com/2022/02/12/europe/russia-ukraine-tensions-moscow-analysis-intl-cmd/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/12/europe/russia-ukraine-tensions-moscow-analysis-intl-cmd/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220207163058-03-macron-moscow-020722-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title/>
+            <description>
+                <![CDATA[The Ukrainian village of Trokhizbenka used to be a weekend getaway destination, a relaxing place where urban dwellers could travel to take in some fresh forest air.]]></description>
+            <link>https://www.cnn.com/2022/02/12/europe/gallery/ukraine-nurse-front-lines/index.html</link>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211234458-01-ukraine-nurse-fadek-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The latest on Ukraine and Russia tensions]]></title>
+            <description>
+                <![CDATA[Tensions between Moscow and Kyiv are at their highest in years, with a large Russian troop buildup near the shared borders of the two former Soviet republics. Follow for live news updates.]]></description>
+            <link>https://www.cnn.com/europe/live-news/ukraine-russia-news-02-11-22/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/europe/live-news/ukraine-russia-news-02-11-22/index.html</guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210035844-nato-troops-deployment-germany-romania-02092022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[New satellite images show continuing Russian military buildup on three sides of Ukraine]]></title>
+            <description>
+                <![CDATA[New satellite images released by a US-based technology company appear to show continuing Russian military buildup in Crimea, western Russia and Belarus, as pressure continues to mount on Ukraine from three directions, underscoring fears that the Kremlin is planning an incursion into Ukrainian territory.]]></description>
+            <link>https://www.cnn.com/2022/02/10/europe/russia-military-buildup-images-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/10/europe/russia-military-buildup-images-intl/index.html
+            </guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210143848-02-russia-military-buildup-satellite-images-0210-zyabrovka-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+    </channel>
+</rss>

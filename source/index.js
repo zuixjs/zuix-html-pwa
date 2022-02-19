@@ -6,7 +6,7 @@ let topicIndicator;
 let topicButtons;
 
 zuix.using('script', './service-worker.js');
-zuix.using('style', '//zuixjs.github.io/zkit/css/flex-layout-attribute.min.css');
+zuix.using('style', 'https://cdnjs.cloudflare.com/ajax/libs/flex-layout-attribute/1.0.3/css/flex-layout-attribute.min.css');
 zuix.using('style', './index.css');
 
 zuix.$.find('.profile').on('click', function() {

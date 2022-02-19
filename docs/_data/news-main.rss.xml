@@ -1,0 +1,2233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title><![CDATA[CNN.com - RSS Channel - App International Edition]]></title>
+        <description>
+            <![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]></description>
+        <link>https://www.cnn.com/app-international-edition/index.html</link>
+        <image>
+            <url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+            <title>CNN.com - RSS Channel - App International Edition</title>
+            <link>https://www.cnn.com/app-international-edition/index.html</link>
+        </image>
+        <generator>coredev-bumblebee</generator>
+        <lastBuildDate>Tue, 15 Feb 2022 10:48:44 GMT</lastBuildDate>
+        <pubDate>Tue, 15 Feb 2022 10:29:15 GMT</pubDate>
+        <copyright><![CDATA[Copyright (c) 2022 Turner Broadcasting System, Inc. All Rights Reserved.]]></copyright>
+        <language><![CDATA[en-US]]></language>
+        <ttl>10</ttl>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml"
+                     href="http://rss.cnn.com/rss/edition"/>
+        <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+        <item>
+            <title><![CDATA[Videos show Russian units and missiles advancing toward Ukraine border]]></title>
+            <link>https://cnn.it/3Bk5X1Y</link>
+            <guid isPermaLink="true">https://cnn.it/3Bk5X1Y</guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[A world on edge awaits Putin's critical move]]></title>
+            <description>
+                <![CDATA[The world is suspended in an extraordinary moment of geopolitical limbo, on edge for a possible Russian invasion of Ukraine amid conflicting signals in Moscow, confusion in Kyiv and dire warnings from Washington. ]]></description>
+            <link>https://www.cnn.com/2022/02/15/politics/russia-ukraine-politics-us-putin-diplomacy/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/politics/russia-ukraine-politics-us-putin-diplomacy/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 09:27:37 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-live-video.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-story-body.jpg"
+                               height="146" width="246" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210170701-04-biden-putin-split-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Social media videos capture latest Russian military deployment near Ukraine]]></title>
+            <description>
+                <![CDATA[Amid the rising Russia-Ukraine tensions, social media posts captured by amateur videographers in Russia are helping shed light on Moscow's military mobilization toward the border with Ukraine. CNN's Scott McLean reports. ]]></description>
+            <link>
+                https://www.cnn.com/videos/world/2022/02/15/ukraine-russia-social-media-military-movements-mclean-pkg-ovn-intl-hnk-vpx.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/world/2022/02/15/ukraine-russia-social-media-military-movements-mclean-pkg-ovn-intl-hnk-vpx.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 07:04:27 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215143710-screengrab-russia-social-media-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA['Dramatic acceleration' of Russian buildup prompts US to close Kyiv embassy]]></title>
+            <link>https://www.cnn.com/collections/intl-ukraine-021422/</link>
+            <guid isPermaLink="true">https://www.cnn.com/collections/intl-ukraine-021422/</guid>
+            <pubDate>Tue, 15 Feb 2022 07:29:47 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214142240-united-states-kyiv-embassy-0212-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Russian skater Kamila Valieva carries weight of doping scandal onto ice]]></title>
+            <link>https://www.cnn.com/collections/intl-valieva-021422/</link>
+            <guid isPermaLink="true">https://www.cnn.com/collections/intl-valieva-021422/</guid>
+            <pubDate>Mon, 14 Feb 2022 12:58:55 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214011036-kamila-valieva-training-02132022-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Day 11 of the Beijing Olympics]]></title>
+            <link>https://cnn.it/34UdiJy</link>
+            <guid isPermaLink="true">https://cnn.it/34UdiJy</guid>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220212195009-olympic-rings-card-image-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Djokovic says he'd skip French Open and Wimbledon due to vaccine stance]]></title>
+            <description>
+                <![CDATA[In an on-camera interview with the BBC, world No. 1 Novak Djokovic said he is willing to skip playing in the French Open or Wimbledon because of his vaccination stance. ]]></description>
+            <link>https://www.cnn.com/2022/02/15/tennis/novak-djokovic-skip-wimbledon-french-open-spt-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/tennis/novak-djokovic-skip-wimbledon-french-open-spt-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 10:23:50 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220116160249-nole-djokovic-deportes-cnn-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[South Korea fumes over cultural appropriation and 'biased judgments' at Beijing 2022]]></title>
+            <description>
+                <![CDATA[South Korea may have clinched its first gold medal at Beijing 2022 last week, but the success came amid tensions with China over alleged cultural appropriation and "biased judgments" during the Winter Olympics.]]></description>
+            <link>https://www.cnn.com/2022/02/14/sport/south-korea-china-beijing-2022-spt-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/sport/south-korea-china-beijing-2022-spt-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 07:10:23 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210091936-china-olympics-winter-hwang-dae-heon-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Canadian officials move to block funding of protests against Covid-19 rules]]></title>
+            <link>https://www.cnn.com/collections/intl-canada-protests-02152022/</link>
+            <guid isPermaLink="true">https://www.cnn.com/collections/intl-canada-protests-02152022/</guid>
+            <pubDate>Tue, 15 Feb 2022 09:16:34 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214000814-ambassador-bridge-02132022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Ottawa resident and protester squabble during CNN reporter's interview]]></title>
+            <description>
+                <![CDATA[Canadian Prime Minister Justin Trudeau has issued his most aggressive response yet to the so-called "Freedom Convoy" protests, invoking the government's Emergencies Act for the first time to try to end more than two weeks of blockades and demonstrations. The law can temporarily suspend people's freedom of movement or assembly and allows authorities to go after those who financially support the protests. CNN's Paula Newton has more.]]></description>
+            <link>
+                https://www.cnn.com/videos/world/2022/02/15/canada-trudeau-emergencies-act-protests-newton-pkg-intl-ovn-vpx.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/world/2022/02/15/canada-trudeau-emergencies-act-protests-newton-pkg-intl-ovn-vpx.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 05:59:31 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-live-video.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-story-body.jpg"
+                               height="146" width="246" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005523-canada-newton-mos-split-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Navy nuclear engineer pleads guilty to conspiracy to sell US naval secrets to foreign country]]></title>
+            <description>
+                <![CDATA[US Navy nuclear engineer Jonathan Toebbe pleaded guilty to one felony count in federal court Monday afternoon, four months after he and his wife were arrested and charged with trying to sell classified information about nuclear submarines to a foreign country in exchange for millions of dollars of cryptocurrency. ]]></description>
+            <link>https://www.cnn.com/2022/02/14/politics/navy-nuclear-secrets-conspiracy/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/politics/navy-nuclear-secrets-conspiracy/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 22:35:36 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-live-video.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-story-body.jpg"
+                               height="146" width="246" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214161501-toebbe-booking-photos-split-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Trump Org's accounting firm says 10 years of financial statements are unreliable]]></title>
+            <link>https://www.cnn.com/collections/trump-intl-021422/</link>
+            <guid isPermaLink="true">https://www.cnn.com/collections/trump-intl-021422/</guid>
+            <pubDate>Tue, 15 Feb 2022 07:37:25 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211217114942-trump-tower-trump-organization-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[George Conway explains why he thinks this is worse than impeachment]]></title>
+            <description>
+                <![CDATA[CNN's John Berman and George Conway discuss possible implications of former President Donald Trump's long-time accounting firm informing the Trump Organization that it should no longer rely on nearly 10 years' worth of financial statements and that they would no longer be their accountants, citing a conflict of interest.]]></description>
+            <link>
+                https://www.cnn.com/videos/politics/2022/02/15/george-conway-accounting-firm-trump-org-sot-ac360-vpx.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/politics/2022/02/15/george-conway-accounting-firm-trump-org-sot-ac360-vpx.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 02:34:53 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-live-video.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-story-body.jpg"
+                               height="146" width="246" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214212421-berman-conway-ac360-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Origin of rocket on course to slam into moon wrongly identified]]></title>
+            <description>
+                <![CDATA[A rogue rocket expected to collide with the moon on March 4 was wrongly identified as a SpaceX Falcon rocket stage and, instead, is likely from a past Chinese lunar mission, according to NASA. ]]></description>
+            <link>https://www.cnn.com/2022/02/14/world/moon-rocket-collision-china-scn/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/14/world/moon-rocket-collision-china-scn/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 00:33:06 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-assign.jpg" height="186"
+                               width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220126170628-01-moon-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[US West's megadrought is the worst in 1,200 years]]></title>
+            <description>
+                <![CDATA[The West is in its worst drought in centuries, scientists reported Monday.]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/west-megadrought-climate-wastewater-recycling/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/us/west-megadrought-climate-wastewater-recycling/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 22:40:22 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152003-04-california-drought-la-wastewater-recycling-climate-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Pastor baptized people for decades using one wrong word. Now those are all considered invalid]]></title>
+            <description>
+                <![CDATA[A Catholic priest has resigned after a church investigation found he performed invalid baptisms throughout most of his more than 20-year career, according to Bishop Thomas Olmsted of the Diocese of Phoenix. ]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/pastor-invalid-baptisms-resignation/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/14/us/pastor-invalid-baptisms-resignation/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 02:57:32 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214181559-andres-arango-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Hollywood actor sentenced to 20 years for mutlimillion dollar Ponzi scheme]]></title>
+            <description>
+                <![CDATA[Zachary Horwitz, a small-time actor who admitted to operating a multi-million dollar Ponzi scheme, was sentenced to 20 years in federal prison on Monday.]]></description>
+            <link>https://www.cnn.com/2022/02/14/media/ponzi-scheme-zachary-horwitz-sentenced/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/media/ponzi-scheme-zachary-horwitz-sentenced/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 03:35:35 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214211305-zachary-horwitz-02142022-restricted-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk has donated $5.7 billion in Tesla shares to charity]]></title>
+            <description>
+                <![CDATA[Tesla CEO Elon Musk has donated roughly $5.7 billion worth of the electric carmaker's shares to charity.]]></description>
+            <link>https://www.cnn.com/2022/02/15/business/elon-musk-charity-donation/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/15/business/elon-musk-charity-donation/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 10:05:14 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215033426-elon-musk-02102022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[White House to unveil multi-pronged approach to reduce emissions in the manufacturing sector]]></title>
+            <description>
+                <![CDATA[The White House will unveil new efforts to reduce emissions in the manufacturing sector Tuesday, including nearly $10 billion in Department of Energy funding from President Joe Biden's signature infrastructure law aimed at "clean hydrogen" manufacturing.]]></description>
+            <link>https://www.cnn.com/2022/02/15/politics/white-house-manufacturing-emissions/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/politics/white-house-manufacturing-emissions/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 10:05:53 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220208153628-01-biden-ev-remarks-0208-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Louisiana man jailed for 44 years on rape charges is freed ]]></title>
+            <description>
+                <![CDATA[Vincent Simmons, a Louisiana man who fought for 44 years to overturn his conviction on attempted aggravated rape charges, has had the judgment vacated and the charges have been dismissed, according to his attorneys Justin Bonus and Malcolm Larvadain.]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/vincent-simmons-rape-charges-dismissed-after-44-years/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/us/vincent-simmons-rape-charges-dismissed-after-44-years/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 04:55:48 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214224039-01-vincent-simmons-framegrab-02142022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Ocasio-Cortez: 'Very real risk' US will not be a democracy in 10 years]]></title>
+            <description>
+                <![CDATA[In an interview with David Remnick of "The New Yorker," Rep. Alexandria-Ocasio Cortez (D-NY) says there's a "very real risk" the United States will not still be a democracy in a decade. Don Lemon and CNN Senior Political Analyst Ron Brownstein discuss.]]></description>
+            <link>
+                https://www.cnn.com/videos/politics/2022/02/15/alexandria-ocasio-cortez-democracy-new-yorker-intvu-sot-dlt-vpx.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/politics/2022/02/15/alexandria-ocasio-cortez-democracy-new-yorker-intvu-sot-dlt-vpx.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 07:03:59 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215014048-alexandria-ocasio-cortez-0212-san-antonio-texas-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Eating raw cookie dough is your choice, but it has nothing to do with Covid precautions]]></title>
+            <description>
+                <![CDATA[Here we go again: Covid-19 cases are falling in nearly every state, spring is in the air and everyone is getting restless. Some have even gone so far as to let us know they are done with the pandemic or at least ready to move away from the problem.]]></description>
+            <link>https://www.cnn.com/2022/02/14/opinions/covid-restrictions-variants-sepkowitz/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/opinions/covid-restrictions-variants-sepkowitz/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 00:45:41 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220209182949-amanpour-masks-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Suspect arrested after an Albuquerque stabbing spree that left 11 people wounded]]></title>
+            <description>
+                <![CDATA[At least 11 people were stabbed Sunday in Albuquerque, New Mexico -- and police believe the same suspect was responsible for each attack.]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/new-mexico-albuquerque-stabbings/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/14/us/new-mexico-albuquerque-stabbings/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 06:04:57 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-super-169.jpeg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-large-11.jpeg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-vertical-large-gallery.jpeg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-video-synd-2.jpeg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-live-video.jpeg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-vertical-gallery.jpeg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-story-body.jpeg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-assign.jpeg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083206-01-new-mexico-stabbing-spree-021322-hp-video.jpeg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Court frees brother who confessed to killing social media star Qandeel Baloch]]></title>
+            <description>
+                <![CDATA[The brother of murdered social media star Qandeel Baloch has been freed by a Pakistan appeals court, three years after he was convicted of killing her for "bringing dishonor" to the family.]]></description>
+            <link>https://www.cnn.com/2022/02/15/asia/pakistan-qandeel-baloch-brother-acquittal-intl-hnk/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/asia/pakistan-qandeel-baloch-brother-acquittal-intl-hnk/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 08:51:28 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215001400-qandeel-baloch-file-06282016-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[A skier slid hundreds of feet and off a 50-foot cliff during an avalanche. He survived]]></title>
+            <description>
+                <![CDATA[A Colorado skier survived an avalanche that threw him off a 50-foot cliff and sent him sliding hundreds of feet.]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/colorado-skier-survives-avalanche-trnd/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/us/colorado-skier-survives-avalanche-trnd/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 01:32:39 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214145109-01-summit-county-rescue-group-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Judge in Sarah Palin's defamation suit against New York Times says he will dismiss case]]></title>
+            <description>
+                <![CDATA[Judge Jed Rakoff, the judge overseeing former Alaska Gov. Sarah Palin's defamation lawsuit against the New York Times, said Monday afternoon that he will dismiss the suit, ruling that Palin's team did not prove a key element of its case.]]></description>
+            <link>https://www.cnn.com/2022/02/14/media/sarah-palin-new-york-times-case-dismissed/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/media/sarah-palin-new-york-times-case-dismissed/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 22:56:55 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115900-sarah-palin-new-york-times-trial-0214-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Mom and child escape burning car moments before it goes up in flames]]></title>
+            <description>
+                <![CDATA[Spring, Texas, officials say a woman didn't realize her car was on fire until she saw smoke coming from her air vents. Video shows the car driving for nearly a mile before pulling over. The woman and her child managed to escape moments before the car was engulfed in flames. CNN affiliate KHOU has more. ]]></description>
+            <link>https://www.cnn.com/videos/us/2022/02/14/tx-car-fire-escape-dnt-vpx.khou</link>
+            <guid isPermaLink="true">https://www.cnn.com/videos/us/2022/02/14/tx-car-fire-escape-dnt-vpx.khou</guid>
+            <pubDate>Mon, 14 Feb 2022 23:29:01 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214182258-mom-child-escape-burning-car-vpx-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[US Coast Guard searches for downed airplane with 8 people ]]></title>
+            <description>
+                <![CDATA[One body was recovered as the US Coast Guard searches for an airplane believed to have gone down about four miles east of Drum Inlet, on North Carolina's Outer Banks, with eight people on board, CNN affiliate WITN reported, citing a sheriff. ]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/north-carolina-downed-airplane-search/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/us/north-carolina-downed-airplane-search/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 00:02:00 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121202-drum-inlet-north-carolina-coast-map-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Israeli nationalists clash with Palestinians over Jerusalem housing settlements]]></title>
+            <description>
+                <![CDATA[CNN's Andrew Carey reports on the tensions, that sometimes turn violent, between Israeli nationalists and Palestinian settlers over housing in Jerusalem.]]></description>
+            <link>https://www.cnn.com/videos/world/2022/02/15/jerusalem-housing-tension-carey-pkg-intl-vpx.cnn</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/world/2022/02/15/jerusalem-housing-tension-carey-pkg-intl-vpx.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 01:04:39 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214191509-were-here-to-stay-intl-vpx-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Brian Laundrie, Gabby Petito's fiancé, died from a gunshot wound to the head, medical examiner says]]></title>
+            <description>
+                <![CDATA[The cause of death of Brian Laundrie, the fiancé of Gabby Petito whose disappearance caused a firestorm late last summer, was revealed Monday. ]]></description>
+            <link>https://www.cnn.com/2022/02/14/us/brian-laundrie-autopsy-gabby-petito/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/14/us/brian-laundrie-autopsy-gabby-petito/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 22:39:01 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[The surprising way Rome could help prevent future pandemics]]></title>
+            <description>
+                <![CDATA[Modern cities spew out a constant surge of sewage but floating in the smelly sludge are vital cellular clues about Covid-19 and its spread among the population. ]]></description>
+            <link>
+                https://www.cnn.com/videos/health/2022/02/14/romes-sewage-secrets-how-scientists-get-an-early-warning-of-diseases.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/health/2022/02/14/romes-sewage-secrets-how-scientists-get-an-early-warning-of-diseases.cnn
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 22:36:09 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214141122-italy-sewage-wedeman-1-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Canada-born slider wins gold for US after ​filing harassment complaint ]]></title>
+            <description>
+                <![CDATA[Canada-born Kaillie Humphries​, winner of the first-ever Olympic gold in the monobob, says she "never gave up" on herself.]]></description>
+            <link>https://www.cnn.com/2022/02/14/sport/kaillie-humphries-usa-canada-beijing-2022-spt-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/sport/kaillie-humphries-usa-canada-beijing-2022-spt-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 09:03:56 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214121501-humphries-team-usa-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of birds suddenly drop from the sky]]></title>
+            <description>
+                <![CDATA[Nearly 100 migratory birds were found after dropping mid-flight in Chihuahua, Mexico. Local authorities haven't confirmed what caused the birds' sudden death, Reuters reports.]]></description>
+            <link>https://www.cnn.com/videos/world/2022/02/14/birds-fall-from-sky-mexico-orig-jc.cnn</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/world/2022/02/14/birds-fall-from-sky-mexico-orig-jc.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 04:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe's new train routes for 2022]]></title>
+            <description>
+                <![CDATA[What's the perfect accompaniment to Europe's gradual easing of its pandemic rules? A burgeoning international rail network for 2022.]]></description>
+            <link>https://www.cnn.com/travel/article/europe-new-train-routes-2022/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/travel/article/europe-new-train-routes-2022/index.html</guid>
+            <pubDate>Tue, 15 Feb 2022 10:21:37 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210184853-01-europe-new-train-routes-2022-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[How 'Amapiano', South Africa's soulful sound, has become one of the hottest new music genres]]></title>
+            <description>
+                <![CDATA[A distinct sound is currently vibing on social feeds around the world: the deep house, log-drum driven basslines and soulful piano melodies of "Amapiano." While Amapiano dance challenges are currently sweeping TikTok, the streets of South Africa have been thrumming with its sound for years.]]></description>
+            <link>https://www.cnn.com/2022/02/15/africa/amapiano-south-africa-music-genre-origins-spc-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/15/africa/amapiano-south-africa-music-genre-origins-spc-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 06:28:20 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083045-amapiano-south-africa-dbn-gogo-music-club-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[AirAsia flight in Malaysia rerouted after snake found on board plane]]></title>
+            <description>
+                <![CDATA[An AirAsia flight in Malaysia was re-routed after a snake was found on the plane, the airline has confirmed. ]]></description>
+            <link>https://www.cnn.com/travel/article/airasia-malaysia-snake-plane-rerouted-intl-hnk/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/travel/article/airasia-malaysia-snake-plane-rerouted-intl-hnk/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 07:01:02 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220215005656-airasia-klia-file-11142021-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[They met on Valentine's Day while hiking in the Himalayas]]></title>
+            <link>https://www.cnn.com/collections/intl-valentines-021422/</link>
+            <guid isPermaLink="true">https://www.cnn.com/collections/intl-valentines-021422/</guid>
+            <pubDate>Mon, 14 Feb 2022 16:47:44 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220211134353-02-chance-encounter-extra-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Celebrate yourself this day after Valentine's Day ]]></title>
+            <description>
+                <![CDATA[Hold the flowers and the chocolates and the sappy love poems. Forget Valentine's Day and Galentine's Day and the pressure to make plans and buy things and give unto others.]]></description>
+            <link>https://www.cnn.com/2022/02/15/health/self-care-love-yourself-wellness/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/15/health/self-care-love-yourself-wellness/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 08:48:25 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214143144-reading-book-on-couch-stock-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Mary J. Blige wows Super Bowl halftime show]]></title>
+            <description>
+                <![CDATA[Mary J. Blige dazzled fans at the Super Bowl on Sunday evening, taking the stage in a bodysuit embellished with 10,000 Swarovski crystals. ]]></description>
+            <link>https://www.cnn.com/style/article/mary-j-blige-super-bowl-halftime-show/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/style/article/mary-j-blige-super-bowl-halftime-show/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 05:28:46 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220213202659-01-mary-j-blige-super-bowl-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Popular Super Bowl ad crashes system]]></title>
+            <description>
+                <![CDATA[Humans cheer and dogs bark at one weird Super Bowl ad that was so popular it crashed the advertiser's website. CNN's Jeanne Moos reports.]]></description>
+            <link>https://www.cnn.com/videos/media/2022/02/14/qr-code-coinbase-super-bowl-ad-kj-orig-moos-pkg-vpx.cnn
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/media/2022/02/14/qr-code-coinbase-super-bowl-ad-kj-orig-moos-pkg-vpx.cnn
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 02:42:41 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214200128-moos-pkg-coinbase-two-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Carlos Ortiz 'nailed on the back with a beer can' at Phoenix Open]]></title>
+            <description>
+                <![CDATA[Carlos Ortiz says he was "nailed pretty hard on the back with a beer can," which had been thrown from the fans in celebration after he hit a hole-in-one at TPC Scottsdale in Arizona during the Phoenix Open. ]]></description>
+            <link>
+                https://www.cnn.com/2022/02/14/golf/carlos-ortiz-hole-in-one-beer-can-phoenix-open-spt-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/golf/carlos-ortiz-hole-in-one-beer-can-phoenix-open-spt-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 10:07:57 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214100354-01-tpc-scottsdale-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase's strange QR-code Super Bowl ad briefly crashes app]]></title>
+            <description>
+                <![CDATA[The app for Coinbase, a cryptocurrency exchange, briefly crashed Sunday after a bizarre Super Bowl ad sparked a surge in traffic.]]></description>
+            <link>https://www.cnn.com/2022/02/14/investing/coinbase-qr-code-app/index.html</link>
+            <guid isPermaLink="true">https://www.cnn.com/2022/02/14/investing/coinbase-qr-code-app/index.html</guid>
+            <pubDate>Mon, 14 Feb 2022 15:05:06 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-super-169.jpeg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-large-11.jpeg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-vertical-large-gallery.jpeg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-video-synd-2.jpeg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-live-video.jpeg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-vertical-gallery.jpeg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-story-body.jpeg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-t1-main.jpeg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-assign.jpeg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214090625-coinbase-app-stock-hp-video.jpeg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Tracing DNA of related elephants reveals illegal ivory trafficking networks]]></title>
+            <description>
+                <![CDATA[African elephants have drastically dwindled as targets of the illegal ivory trade, but the DNA contained within their tusks is pointing to the very criminal networks that poached them.]]></description>
+            <link>https://www.cnn.com/2022/02/14/africa/elephant-ivory-trafficking-dna-scn/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/africa/elephant-ivory-trafficking-dna-scn/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 16:57:24 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214114652-african-elephant-stock-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Newly discovered crocodile species ate a young dinosaur for its last meal, scientists say]]></title>
+            <description>
+                <![CDATA[A new species of crocodile dating back to the Cretaceous period has been discovered in Queensland, Australia, and its last meal was a young dinosaur, scientists say. ]]></description>
+            <link>
+                https://www.cnn.com/2022/02/14/world/australia-new-crocodile-species-young-dinosaur-intl-scli-scn/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/world/australia-new-crocodile-species-young-dinosaur-intl-scli-scn/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 12:57:01 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115404-australia-new-crocodile-species-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Here's who won gold medals at the Beijing Olympics on Monday]]></title>
+            <description>
+                <![CDATA[There were four gold medals up for grabs on Monday at the 2022 Beijing Winter Olympics.]]></description>
+            <link>https://www.cnn.com/2022/02/14/sport/olympics-gold-medal-winners-monday-day-10-spt-intl/index.html
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/sport/olympics-gold-medal-winners-monday-day-10-spt-intl/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 14:09:53 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214140245-kaillie-humphries-gold-medal-monobob-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA['I am back!': Whoopi Goldberg returned to 'The View']]></title>
+            <description>
+                <![CDATA[Whoopi Goldberg returned to "The View" after her two-week suspension because of her controversial comments on the Holocaust.]]></description>
+            <link>
+                https://www.cnn.com/videos/business/2022/02/14/whoopi-goldberg-return-to-the-view-ht-orig.cnn-business
+            </link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/videos/business/2022/02/14/whoopi-goldberg-return-to-the-view-ht-orig.cnn-business
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 21:29:52 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214152521-whoopi-goldberg-return-to-the-view-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Rare notebook containing handwritten 'Hey Jude' lyrics to go on display]]></title>
+            <description>
+                <![CDATA[A rare notebook featuring handwritten lyrics and recording notes from hit songs by The Beatles is set to go on display at a museum in Liverpool, England. ]]></description>
+            <link>https://www.cnn.com/style/article/the-beatles-notebook-handwritten-lyrics-intl-scli/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/style/article/the-beatles-notebook-handwritten-lyrics-intl-scli/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 17:56:35 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214115924-the-beatles-file-1966-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title>
+                <![CDATA[From submarines and amphibious landing ships to ballistic missiles and tanks, the build-up of Russian forces continues apace]]></title>
+            <description>
+                <![CDATA[The build-up of Russian forces close to the Ukrainian border continues apace, with everything from submarines and amphibious landing ships in the Black Sea to short-range ballistic missiles, tanks and howitzers around Ukraine's northeastern edges.]]></description>
+            <link>https://www.cnn.com/2022/02/14/europe/russia-ukraine-troops-social-media-video-intl/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/europe/russia-ukraine-troops-social-media-video-intl/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 09:56:26 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214155855-02-russia-military-buildup-tanks-social-media-mclean-0213-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[If Russia invades, global stock markets could be in for a rough ride]]></title>
+            <description>
+                <![CDATA[If Russia invades Ukraine, global stock markets could be in for a rough ride — much worse than most other geopolitical events of the past several decades.]]></description>
+            <link>https://www.cnn.com/2022/02/14/investing/russia-ukraine-oil-prices-inflation/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/investing/russia-ukraine-oil-prices-inflation/index.html
+            </guid>
+            <pubDate>Mon, 14 Feb 2022 18:14:52 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220214083030-russia-oil-prices-inflation-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+        <item>
+            <title><![CDATA[Opinion: Putin could turn off Europe's gas tap. This is the solution]]></title>
+            <description>
+                <![CDATA[As Russian troops remain camped across several of Ukraine's frontiers, Europe and the United States are scrambling to prevent an incursion, with a flurry of diplomatic efforts and by bolstering their own troops in nearby NATO countries.]]></description>
+            <link>https://www.cnn.com/2022/02/14/opinions/putin-russia-gas-europe-climate-connolly/index.html</link>
+            <guid isPermaLink="true">
+                https://www.cnn.com/2022/02/14/opinions/putin-russia-gas-europe-climate-connolly/index.html
+            </guid>
+            <pubDate>Tue, 15 Feb 2022 04:07:48 GMT</pubDate>
+            <media:group>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-super-169.jpg"
+                               height="619" width="1100" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-large-11.jpg"
+                               height="300" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-vertical-large-gallery.jpg"
+                               height="552" width="414" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-video-synd-2.jpg"
+                               height="480" width="640" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-live-video.jpg"
+                               height="324" width="576" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-vertical-gallery.jpg"
+                               height="360" width="270" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-story-body.jpg"
+                               height="169" width="300" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-t1-main.jpg"
+                               height="250" width="250" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-assign.jpg"
+                               height="186" width="248" type="image/jpeg"/>
+                <media:content medium="image"
+                               url="https://cdn.cnn.com/cnnnext/dam/assets/220210122244-01-nord-stream-2-file-hp-video.jpg"
+                               height="144" width="256" type="image/jpeg"/>
+            </media:group>
+        </item>
+    </channel>
+</rss>
