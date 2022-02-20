@@ -102,7 +102,7 @@ zuix.controller(function(cp) {
     if (node.length() > 0) node = node.get();
     if (node != null && node.firstChild != null) {
       // get rid of CDATA wrapper eventually
-      text = node.firstChild.nodeValue;
+      text = node.firstChild.wholeText;
     } else if (node != null) {
       // get value as is
       text = node.innerHTML;
